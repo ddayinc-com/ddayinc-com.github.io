@@ -1,0 +1,55 @@
+# Simple workflow for deploying static content to GitHub Pages
+name: Deploy static content to Pages
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+defaults:
+  run:
+    shell: pwsh
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  # Single deploy job since we're just deploying
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo from branch '${{github.ref_name}}'
+        uses: actions/checkout@v3
+      # - name: Set file encoding from 'iso-8859-1' to 'utf-8'
+      #   run: |
+      #     $strEncodingToChange = "iso-8859-1"
+      #     Get-ChildItem ./siteContents/* -Recurse -File -Exclude *.gif -PipelineVariable oThisFileInfo | Foreach-Object {
+      #         if (($strThisFileEncoding = file --brief --mime-encoding $_.FullName) -eq $strEncodingToChange) {
+      #             Get-Content -Raw -Encoding $strEncodingToChange -Path $oThisFileInfo.fullname | Set-Content -Encoding utf8 -Path $oThisFileInfo.FullName
+      #         } else {Write-Verbose -Verbose "File enoding is '$strThisFileEncoding' of '$($oThisFileInfo.FullName)' -- taking no action"}
+      #     }
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          ## path to upload
+          path: './siteContents'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2

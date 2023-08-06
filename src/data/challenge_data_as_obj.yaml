@@ -1,0 +1,1788 @@
+%YAML 1.1
+---
+Categories:
+-
+  CategoryNumber: 1
+  RecordCategory: "Food and Eating"
+  CategoryDescription: "bon app&eacute;tit"
+-
+  CategoryNumber: 2
+  RecordCategory: "Technology"
+  CategoryDescription: "more input"
+-
+  CategoryNumber: 3
+  RecordCategory: "Failures"
+  CategoryDescription: "Attempts that did not beat an existing record"
+Challengers:
+-
+  ChallengerID: 0
+  LastName: "Boren"
+  FirstName: "Matt"
+  Dept: "Putnam County Quads"
+  Description: "Challenge Master"
+-
+  ChallengerID: 2
+  Dept: "Novell"
+-
+  ChallengerID: 3
+  Dept: "Private party"
+-
+  ChallengerID: 4
+  Dept: "Random user"
+-
+  ChallengerID: 5
+  Dept: "Sales Force"
+  Description: "(Ariana Monroe)"
+-
+  ChallengerID: 6
+  LastName: "X"
+  FirstName: "Marianne"
+  Dept: "External"
+-
+  ChallengerID: 7
+  LastName: "Barker"
+  FirstName: "Ryan \"Bob\""
+-
+  ChallengerID: 8
+  LastName: "Beller"
+  FirstName: "Andrew"
+-
+  ChallengerID: 9
+  LastName: "Birk"
+  FirstName: "Ryan"
+  Dept: "WMT"
+-
+  ChallengerID: 11
+  LastName: "Crawford"
+  FirstName: "Allen"
+  Dept: "CNV"
+-
+  ChallengerID: 12
+  LastName: "Dillon"
+  FirstName: "Bob"
+  Dept: "NetWare Team"
+-
+  ChallengerID: 13
+  LastName: "Eash"
+  FirstName: "Matt"
+  Dept: "Unix"
+-
+  ChallengerID: 14
+  LastName: "Etherington"
+  FirstName: "Alex"
+-
+  ChallengerID: 15
+  LastName: "Foster"
+  FirstName: "Michael \"Cowboy\""
+-
+  ChallengerID: 16
+  LastName: "Haselby"
+  FirstName: "Chad"
+-
+  ChallengerID: 17
+  LastName: "Hawkins"
+  FirstName: "Michael"
+-
+  ChallengerID: 18
+  LastName: "Hexamer"
+  FirstName: "Jeff"
+-
+  ChallengerID: 19
+  LastName: "Hillman"
+  FirstName: "Tim"
+-
+  ChallengerID: 20
+  LastName: "Horn"
+  FirstName: "AJ"
+-
+  ChallengerID: 21
+  LastName: "Kilgore"
+  FirstName: "Kyle"
+-
+  ChallengerID: 22
+  LastName: "McCollister"
+  FirstName: "Tom"
+  Dept: "Unknown"
+-
+  ChallengerID: 23
+  LastName: "McConaha"
+  FirstName: "Danny"
+  Dept: "Unknown"
+-
+  ChallengerID: 24
+  LastName: "Molitor"
+  FirstName: "Liz"
+-
+  ChallengerID: 25
+  LastName: "Morris"
+  FirstName: "Brian"
+-
+  ChallengerID: 26
+  LastName: "Nelson"
+  FirstName: "Michael"
+-
+  ChallengerID: 27
+  LastName: "Neuenschwander"
+  FirstName: "Brandon"
+-
+  ChallengerID: 28
+  LastName: "Nevels"
+  FirstName: "Maia"
+-
+  ChallengerID: 29
+  LastName: "Oliver"
+  FirstName: "Edward"
+  Dept: "WMT"
+-
+  ChallengerID: 30
+  LastName: "Price"
+  FirstName: "Misty"
+-
+  ChallengerID: 31
+  LastName: "Roach"
+  FirstName: "Troy"
+  Dept: "CSC"
+-
+  ChallengerID: 32
+  LastName: "Smith"
+  FirstName: "Jeremy"
+  Dept: "WMT"
+-
+  ChallengerID: 33
+  LastName: "Ulrich"
+  FirstName: "Steve"
+  Dept: "ADSS"
+-
+  ChallengerID: 34
+  LastName: "Vance"
+  FirstName: "Michael"
+  Dept: "InfoSec"
+-
+  ChallengerID: 35
+  LastName: "Wojtak"
+  FirstName: "Greg"
+  Dept: "Unix"
+-
+  ChallengerID: 36
+  LastName: "Yurko"
+  FirstName: "Viktoriya"
+  Dept: "WMT"
+-
+  ChallengerID: 37
+  LastName: "Harper"
+  FirstName: "Dave"
+-
+  ChallengerID: 1
+  LastName: "Hazlett"
+  FirstName: "Matt \"Roobus\""
+  Dept: "Putnam County Quads"
+-
+  ChallengerID: 39
+  LastName: "Warmoth"
+  FirstName: "John \"Wizzle\""
+-
+  ChallengerID: 40
+  LastName: "Widener"
+  FirstName: "Josh"
+-
+  ChallengerID: 41
+  LastName: "Lockwood"
+  FirstName: "Mark"
+-
+  ChallengerID: 42
+  LastName: "the Aussie"
+  FirstName: "Cam"
+  Dept: "InfoHell"
+RecordDetails:
+-
+  ID: 17
+  RecordCategory: 1
+  RecordNumber: 1001
+  RecordDate: "2006-09-28"
+  ChallengerID: 20
+  RecordSummary: "Ate 23.5 White Castle, 3 cheese sticks, 44oz water, 22oz Coke"
+  RecordDetails: "AJ snarfed down twenty-three and one-half (23.5) tasty White Castle Hamburgers, holes and all, along with three (3) cheese sticks, forty-four (44) ounces of water, and twenty-two (22) ounces of Coca-Cola (Classic). He started out fast and furious, devouring fifteen (15) WC's in the first ten (10) minutes.  Wow. The crowd was riveted (as seen in some of the photos).  Then, the ever-present wall was seen in distance, and AJ rapidly approached it.  Soon he was at nineteen (19) -- and, then -- bam!  He hit said wall.  After a ten (10) minute recess, he got back in the saddle.  He even doubled up on a couple of sliders, showing them who was boss.  Bam -- back came the wall.  AJ strained to get through the twenty-third (23rd) onion-briquette.  One-half (0.5) of the twenty-fourth (24th) all-beef patty (uh-huh) made its escape, leaping from AJ's pie-hole into the toilet.  ...done with the main course.\r\n<BR /><SPAN CLASS='indented'>Next</SPAN>, the cheese sticks.  It turned out that the greasy, cheesy, inviting little cheese rods were not the cure for the WC pains that were haunting Horn's bloated bowels.  Three (3) cheese sticks and sixty-six (66) ounces of fluids later, AJ called it.  Total time: fifty-five (55) minutes.  Total cost: $20. Total intestinal devastation:  priceless."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "AJ was trying for an entire Crave Case -- you know, it's \"What you Crave,\" thirty (30) White Castle hamburgers.  Though he fell a bit short of the mark, he sure created a stir in the bathroom a short time after the event.  Pee-ewww."
+  ImgPath: "ddayinc.com/gallery/records/ajwhitecastle2006"
+  bImgPathIsURL: 1
+  ImgPathAltText: "Sliders Galore"
+-
+  ID: 3
+  RecordCategory: 1
+  RecordNumber: 1002
+  RecordDate: "2007-03-07"
+  ChallengerID: 11
+  RecordSummary: "Thirty-six (36) donettes"
+  RecordDetails: "Allen, in his debut challenge, let his skee-ulls shine through as he decimated the previous donette record fifty (50) percent over by eating a total of thirty-six (36) powdered donettes. Unfortunately for the writing staff, the event was extremely low key. In fact, Allen was able to help three (3) customers and close two (2) tickets during the donette destruction.<BR />\r\n<SPAN CLASS='indented'>In</SPAN> short order, and in very orderly fashion, Allen worked through the three dozen donettes, laying out the victims in stacks of two in blocks of twelve. He sent each powdery pastry to their doom. Some question still lingers as to whether Allen has an internal beverage depot, as he merely sipped on the homogenized milk that accompanied the tasty breakfast. Tasty pictures are available in the <A TITLE=\"Dog's Nuts Pix\" HREF='http://ddayinc.com/gallery/records/donettes200703'>Records Gallery -- Donette Edition</A><BR />\r\n<SPAN CLASS='indented'>Side</SPAN> note: when local law enforcement officers learned of this donette devastation, they reportedly hung their heads in shame, for they knew that they had been made to look like anti-pastry protestors with their measly two- to three- donuts per morning."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/donettes200703"
+  bImgPathIsURL: 1
+  ImgPathAltText: "Dog's Nuts Pix"
+-
+  ID: 4
+  RecordCategory: 1
+  RecordNumber: 1003
+  RecordDate: "2003-08-20"
+  ChallengerID: 29
+  RecordSummary: "Hotter than Ron Armstrong's"
+  RecordDetails: "Matched Ron Armstrong pepper for pepper, hot sauce for hot sauce, habanero powder dash for dash, and then some.  Victory dance included several dashes of said powder directly in mouth.  Witnesses noted Ron's profuse sweating."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 5
+  RecordCategory: 1
+  RecordNumber: 1004
+  RecordDate: "2003-08-21"
+  ChallengerID: 27
+  RecordSummary: "Five (5) full meals and sandwich/drink from sixth"
+  RecordDetails: "Ate five (5) full cheeseburger Happy Meals (w/ water as drink), and the cheeseburger and drink from a sixth Meal."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Brandon was attempting to eat six (6) full cheeseburger Happy Meals"
+  bImgPathIsURL: 0
+-
+  ID: 6
+  RecordCategory: 1
+  RecordNumber: 1005
+  RecordDate: "2003-06-20"
+  ChallengerID: 27
+  RecordSummary: "Ten (10) Hardee's slammers"
+  RecordDetails: "Ate 10 Hardee's Slammers, 1 large order of fries, and 1 large Dr. Pepper"
+  IsTie: 1
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 7
+  RecordCategory: 1
+  RecordNumber: 1005
+  RecordDate: "2003-06-20"
+  ChallengerID: 25
+  RecordSummary: "Ten (10) Hardee's slammers"
+  RecordDetails: "Ate 10 Hardee's Slammers, 1 large order of fries, and 1 large Coke"
+  IsTie: 1
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 21
+  RecordCategory: 1
+  RecordNumber: 1006
+  RecordDate: "2003-11-21"
+  ChallengerID: 17
+  RecordSummary: "50 oz of ribeye"
+  RecordDetails: "Michael ate 3.125 pounds (50oz) of cooked ribeye. This consisted of 3.5 ribeye steaks. Washed down the tasty treat with a beer. Quotes: \"Oh, sweet Moses\", \"Oh, here come the meat-sweats\", and \"My legs are starting to wiggle\"."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Michael was attempting to eat 50oz. of steak accompanied by a dinner salad and a beer. He ran out of time to consume (or even make) the salad. So close. Sidenote: Michael later noted that he had to perform a pair of courtesy flushes while in the bathroom."
+  bImgPathIsURL: 0
+-
+  ID: 16
+  RecordCategory: 1
+  RecordNumber: 1007
+  RecordDate: "2003-10-21"
+  ChallengerID: 18
+  RecordSummary: "35.5 packets of taco sauce"
+  RecordDetails: "Consumed the contents of 35.5 packets of taco sauce from Taco Bell.  Enjoyed 15 Hot packets, 15 Fire packets, and 5.5 Green Sauce packets.  Jeff waited 5 minutes after eating sauces to consume any liquids."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 10
+  RecordCategory: 1
+  RecordNumber: 1008
+  RecordDate: "2003-10-08"
+  ChallengerID: 36
+  RecordSummary: "Three (3) pounds of grapes"
+  RecordDetails: "Consumed 3 pounds of green grapes.  Totalled 297 grapes in 38 minutes."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 11
+  RecordCategory: 1
+  RecordNumber: 1009
+  RecordDate: "2003-10-10"
+  ChallengerID: 25
+  RecordSummary: "Thirty (30) slices of gum"
+  RecordDetails: "Put 30 slices of Extra Bubble Gum flavored gum in his mouth.  Brian proceeded to chew all 30 pieces for 10 minutes after last piece was placed in mouth.  Was quoted as saying, \"That's a lot of gum juice\"."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 12
+  RecordCategory: 1
+  RecordNumber: 1010
+  RecordDate: "2003-10-10"
+  ChallengerID: 16
+  RecordSummary: "Two (2) 14-ounce cans of whipped cream"
+  RecordDetails: "Consumed two (2) 14-ounce cans of Kroger light whipped cream.  Was seen gagging on more than one occasion.  Fun facts:  each can was 1200 calories, and had around 60g of fat.  Elapsed time: 54 min."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Chad was attempting to consume five (5) 14-ounce cans of whipped cream."
+  bImgPathIsURL: 0
+-
+  ID: 14
+  RecordCategory: 1
+  RecordNumber: 1011
+  RecordDate: "2003-10-16"
+  ChallengerID: 29
+  RecordSummary: "Three (3) pounds of cocktail shrimp"
+  RecordDetails: "Consumed three (3) pounds of cocktail-style shrimp in 36 minutes.  This was about 174 shrimp.  Edward also consumed 0.75 pounds of cocktail sauce, and had a lick of a lemon slice.  Onlookers saw only one (1) near vomit situation and one (1) mercury rash."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 15
+  RecordCategory: 1
+  RecordNumber: 1012
+  RecordDate: "2003-10-21"
+  ChallengerID: 0
+  RecordSummary: "Forty-eight (48) fluid ounces of pudding"
+  RecordDetails: "Consumed 48 fluid ounces of chocolate pudding from the fine buffet at the Dragon House eatery."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Matt was attempting to down fifty (50) fluid ounces of chocolate pudding.  He also intended to pass the pudding normally.  He was unable to keep it down, losing pudding on two separate occasions."
+  bImgPathIsURL: 0
+-
+  ID: 18
+  RecordCategory: 1
+  RecordNumber: 1013
+  RecordDate: "2007-02-23"
+  ChallengerID: 7
+  RecordSummary: "Four-thousand four-hundred (4400) calories"
+  RecordDetails: "Barker chomped down ten (10) double cheese burgers from McDonald's for a total of four-thousand four-hundred (4400) calories.  Each tasty burger contained four-hundred and forty (440) calories, which is down from the four-hundred and sixty (460) that the double cheese burgers of Jan 2006 (see previous record, link below). He is only the second competitor to reach the four-thousand calorie plateau. Fine job, Ryan. Now, no eating for the next two days, in order to balance out the RDA values..."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/doublecheeseburgers2007"
+  bImgPathIsURL: 1
+  ImgPathAltText: "Chee-burger, chee-burger"
+-
+  ID: 76
+  RecordCategory: 1
+  RecordNumber: 1031
+  RecordDate: "2006-12-20"
+  ChallengerID: 32
+  RecordSummary: "Failed to beat the shake/malt record"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 1
+  FailureDetails: "Jeremy was all jazzed about destroying some tasty shakes from Dairy Queen. He could not believe that a person could not consume three (3) quarts (or 96 ounces) of cool refreshment. Many contest watchers were amazed at the shear volume of smack that Jeremy was talking about how he was going to obliterate those poor shakes.<BR />\r\n<SPAN CLASS='indent'>So,</SPAN> Jeremy ordered up two (2) 32-ounce strawberry shakes, and one (1) vanilla shake. Right out of the gate, spectators enjoyed a true spectacle of shake-slurping. Jeremy laid waste to the first half-gallon of shake-goodness within twelve (12) minutes. Then, reality set in. The shakes began drawing thermal energy from deep within Jeremy's core, fueled by their desire to restore equilibrium with their surroundings. Brr. After getting through a case of the \"shakes\", Jeremy found that it was time to hit the latrine. After nearly 25 minutes of playing Sno-cone factory, he emerged determine to press on.<BR />\r\n<SPAN CLASS='indent'>Jeremy</SPAN> sat back at the table and started in on the last third of his challenge. About three (3) sips later, he found himself on the DQ patio, coaxing the still-melting shakes in his belly to stay put (see images in the <A HREF='http://ddayinc.com/gallery/records/dqshakes200612-firsttry'>Record Gallery</A>). After a short reprieve, and a couple of more sips, Jeremy was half out the door to the patio and throwing up a bit of the Cool Treats that he had enjoyed throwing down. After another short time of calm, the gates were opened, and the rest of the now-frothy shakes leapt from his tummy with a distinct \"splat\" onto the patio pavers.\r\n<SPAN CLASS='indent'>After</SPAN> alerting the DQ employees that our friend was sick (and had made a pink puddle), we all jumped in the Jeep and stewed in the fun and frivolity we had just experience. Luckily, Jeremy's insides were fine with keeping the rest of their contents (if any), and no chuck was spilled in the Jeep.\r\n<SPAN CLASS='indent'>Jeremy</SPAN> vowed to avenge the failure. A rematch date has not been set."
+  bImgPathIsURL: 0
+-
+  ID: 19
+  RecordCategory: 1
+  RecordNumber: 1014
+  RecordDate: "2003-11-05"
+  ChallengerID: 28
+  RecordSummary: "106 SweetTarts and one (1) pack of Smarties"
+  RecordDetails: "Fit 106 SweetTarts and one (1) pack of Smarties into her mouth simultaneously.  Consumed these items by chewing (for quite a while). Only spewed out candy juice a time or two, and did not hurl.  Quotes: \"My tongue burns\", \"My gums are swollen\"."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 20
+  RecordCategory: 1
+  RecordNumber: 1015
+  RecordDate: "2003-11-06"
+  ChallengerID: 30
+  RecordSummary: "37.76 oz"
+  RecordDetails: "Ate 37.76 ounces of fried Okra from Cracker Barrel accompanied by 20 ounces of water.  Experienced two (2) near-hoark events, one of which she tried to disguise as a laugh."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Misty was attempting to eat ten (10) servings of Okra.  This constitutes forty (40) ounces.  Just a bit short.  [Challengee requested addendum]: Price was originally going to attempt 36 ounces, but raised the bar after succumbing to peer pressure."
+  bImgPathIsURL: 0
+-
+  ID: 23
+  RecordCategory: 1
+  RecordNumber: 1016
+  RecordDate: "2004-01-09"
+  ChallengerID: 8
+  RecordSummary: "Eleven (11) egg rolls"
+  RecordDetails: "Andrew ate eleven (11) egg rolls from the Dragon House in 54 minutes. He soaked the rolls with soy sauce and seemed to enjoy the meal. Some spectators worried on a couple of occasions about getting thrown up upon. They noted the fear in Andrew's eyes during the closest near-vomit encounter."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Andrew was attempting to eat a baker's dozen (13) egg rolls. He appeared reasonably full, and shuddered from time to time. Quote: \"This is harder than it looks\"."
+  bImgPathIsURL: 0
+-
+  ID: 24
+  RecordCategory: 1
+  RecordNumber: 1017
+  RecordDate: "2003-12-08"
+  ChallengerID: 29
+  RecordSummary: "Thirty (30) Tootsie Pops"
+  RecordDetails: "Edward consumed thirty (30) Tootsie Pop suckers (assorted flavors) in 53 minutes. Spectators noticed a nasty rash develop, eventually spreading from ear to ear.  Quotes: \"My saliva is really thick\", and, \"Ouch\". Contestant commented on vibrant colors in his excrement after the challenge. These suckers contained 16.07 oz. sugar and 1800 calories."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 28
+  RecordCategory: 1
+  RecordNumber: 1018
+  RecordDate: "2003-12-24"
+  ChallengerID: 26
+  RecordSummary: "14\" pizza, ten (10) wings, three (3) bread sticks"
+  RecordDetails: "Michael ate one large (14 inch) pepperoni/sausage pizza, ten (10) hot wings, and three (3) bread sticks with cheese from Donato's Pizza in 57 minutes. He washed down these morsels with 40 ounces of Diet Mt. Dew. Quotes: \"I'm hurting right here\" (accompanied by pointing gestures to his midsection), \"No, I just didn't chew it very well\" (when asked if he nearly spewed)."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Michael was attempting to eat a large pizza, ten hot wings, and a full order of bread sticks (6 sticks). Just three sticks shy, slim!"
+  bImgPathIsURL: 0
+-
+  ID: 29
+  RecordCategory: 1
+  RecordNumber: 1019
+  RecordDate: "2008-04-11"
+  ChallengerID: 7
+  RecordSummary: "62.27 seconds to eat a full CheeBurger Happy Meal"
+  RecordDetails: "Ryan consumed one (1) cheeseburger Happy Meal from McDonald's in 62.27 seconds. This consisted of the cheeseburger, small fries, and a small drink (water). As seems to be the standard with speed eating challenges, Ryan had a case of the shakes, presumably as a part of the strategy -- it has been shown to help increase saliva production and to accelerate the jaw's chomping actions, both of which aid in swallowing.<BR />\r\n<SPAN CLASS='indented'>This</SPAN> successful challenge finally puts to rest the questions about the validity of the infamous \"71-second Happy Meal\" job that the previous record holder Chad Haselby posted about eleven (11) months prior to this challenge (at WizzlePalooza 2007). There were questions looming around the regulation-ness of Chad's Happy Meal, as the french fry count was reportedly a bit low. [youtube.com <A TARGET=_blank TITLE=\"Chad kills a Happy Meal\" HREF=\"http://youtube.com/watch?v=Uai162m3G60\">video</A> (new window)]. Be sure to catch Ryan's reaction after the 71-second Happy Meal beating that Chad put down that night. Note: that challenge never became an official record, as the case became caught up in the legal system, neither camp willing to budge an inch on their take.<BR />\r\n<SPAN CLASS=\"indented\">Fine</SPAN> job, Ryan \"Bob\" Barker. Your challenge also brought to an end the terrible Food Challenge Drought of 2007-2008 (there was a staggering seven (7) months gap in action since the previous challenge in Aug 2007).\r\n<DIV CLASS=\"txtC\"><IMG ALT=\"Happy Meal\" title=\"Happy Meal\" src=\"imgs/icons/happymealicon.gif\"></DIV>"
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/fastestHappyMeal-200804"
+  bImgPathIsURL: 1
+  ImgPathAltText: "Eat that thang!"
+-
+  ID: 30
+  RecordCategory: 1
+  RecordNumber: 1020
+  RecordDate: "2004-01-02"
+  ChallengerID: 30
+  RecordSummary: "Thirteen (13) Archer Farms cookies"
+  RecordDetails: "Misty ate thirteen (13) Archer Farms brand green iced sugar cookies, which are 43 grams each. She washed the cookies down with both water and slightly chilled milk, and broke up the sweetness with intermittent pretzel breaks. Her mouth turned green from the frosting, and she reported that \"My stomach hurts\". Surprising."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Misty was attempting to eat eighteen (18) iced sugar cookies. She had to stop the challenge due to regurgitation concerns. On a positive note, challengee reported producing green excrement later that night."
+  bImgPathIsURL: 0
+-
+  ID: 58
+  RecordCategory: 1
+  RecordNumber: 1021
+  RecordDate: "2005-04-15"
+  ChallengerID: 35
+  RecordSummary: "Attempted to drink more than 64oz of milk"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 1
+  FailureDetails: "Greg was going for the coveted Most Milk title. He intended to drink down over 0.5 gallons of fresh, wholesome milk in approximately eleven (11) minutes. In order to get an edge in the competition, Greg slowly brought the milk closer to room temperature over a period of two (2) hours. Last minute protests by the current Most Milk title holder about skim versus 2% milk prompted Greg to add four (4) single serving size Half and Half creamer containers to the skim milk. After an impressive start and slurping down about 75% of the jug of milk in about two (2) minutes, Greg paused to showboat a bit. To please the crowd, Greg was able to work in his catch-phrase, \"it hurts\". Then, shortly after getting back to the challenge, the milk that Greg had already consumed was not enjoying the one-half (1/2) pot of coffee that Greg had for breakfast:  it wanted out. It came up once, but Greg gulped it back down. The next two (2) abdominal contractions could not be overcome in the same manner, and Greg chunked out the milk into a nearby trash can. Milk did not do a body good in this case. \r\nNote: one of the pictures is semi-graphic."
+  ImgPath: "imgs/gwojtak-milk01.jpg,imgs/gwojtak-milk02.jpg"
+  bImgPathIsURL: 0
+-
+  ID: 60
+  RecordCategory: 1
+  RecordNumber: 1021
+  RecordDate: "2005-04-21"
+  ChallengerID: 22
+  RecordSummary: "Drank down one half (1/2) gallon of 2% milk in 3 min 50 sec"
+  RecordDetails: "Tom chugged down one half (1/2) gallon of 2% milk in 3 min 50 sec. Tom used this, his first challenge, to wow the crowd with his capacity for wholesome, frosty milk. Though no official readings were taken, a few lookers-on estimated that Tom's core body temperature dropped by three (3) degrees Fahrenheit. A couple of veteran milk challengers were on hand, including the incumbent champ. Each of them eagerly offered \"tips\" to Tom in efforts to thwart the attempt. The tips did not phase him. A couple of questionable \"coughs\" had the crowd expecting to see the milk again, but Tom kept it in. Two short hours later his stomach was settled."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 32
+  RecordCategory: 1
+  RecordNumber: 1022
+  RecordDate: "2004-01-12"
+  ChallengerID: 0
+  RecordSummary: "967 Tic Tacs"
+  RecordDetails: "Matt consumed 967 Tic Tac breath mints in one hour. He only chewed approximately forty (40) of the mints, downing the rest whole. There were 240 of the Fresh Mint variety, and 727 of the Orange Mint variety. Quotes: \"Something is sliding through me\". One near-hoark event included a Gallagher-like spraying of an assistant with water."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Matt was attempting to manhandle one thousand (1000) Tic Tac mints. Time expired before he could eat the last 33 mints. At least his breath was reasonably fresh. Matt experienced an orange Technicolor yawn a bit later."
+  bImgPathIsURL: 0
+-
+  ID: 33
+  RecordCategory: 1
+  RecordNumber: 1023
+  RecordDate: "2004-01-13"
+  ChallengerID: 25
+  RecordSummary: "Ten (10) chicken soft tacos"
+  RecordDetails: "Brian gobbled down ten (10) chicken soft tacos from Taco Bell. He added mild sauce as he saw fit. These tacos totaled 2.21 pounds of Taco Bell goodness. Brian was seen performing calisthenics on several occasions as he tried to free up more storage space."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Brian was attempting to eat fifteen (15) chicken soft tacos. Time was a factor in this challenge, along with tummy capacity."
+  bImgPathIsURL: 0
+-
+  ID: 59
+  RecordCategory: 1
+  RecordNumber: 1023
+  RecordDate: "2004-09-16"
+  ChallengerID: 12
+  RecordSummary: "Failed to beat current chicken soft taco record of ten (10)"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 1
+  FailureDetails: "Bob began this, his debut challenge, full of gust and zeal. He was thinking outside the bun as he prepared to eat fifteen (15) chicken soft taco supremes. Things went bad quickly. After three (3) tacos, Bob noticed that the tangy sour cream on the tacos tasted a bit off. Eventually, he came to describe the sour cream as \"crunchy\". After about seven (7) chicken soft taco supremes, the challenge ended.  Bob finished this, his debut challenge, full of bad sour cream and a bitterness towards the sport."
+  bImgPathIsURL: 0
+-
+  ID: 34
+  RecordCategory: 1
+  RecordNumber: 1024
+  RecordDate: "2004-01-30"
+  ChallengerID: 27
+  RecordSummary: "Two (2) heads of lettuce"
+  RecordDetails: "Brandon snarfed down two (2) heads of lettuce from Golden Corral in just about nine (9) minutes. The lettuce was accompanied by one-half of a bowl of french dressing. He really attacked that roughage, enjoying every delicious bite. P.S., this was Brandon's first successful attempt."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "imgs/lettuce01.jpg"
+  bImgPathIsURL: 0
+-
+  ID: 35
+  RecordCategory: 1
+  RecordNumber: 1025
+  RecordDate: "2004-01-30"
+  ChallengerID: 36
+  RecordSummary: "244 gummy bears"
+  RecordDetails: "Viktoriya chomped down two-hundred forty-four (244) regulation size gummy bears. At the start of the challenge, she noted that she loved the little bears. Near the end of the challenge, she was claiming that she would never eat another \"g-bear\" again. We shall see."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Viktoriya was attempting to ingest one-thousand (1000) gummy bears. She got a time extension from the panel of judges before the challenge, giving her a full ninety (90) minutes to eat bears. She scarcely used half of that time."
+  ImgPath: "imgs/gummybears01.jpg,imgs/gummybears02.jpg"
+  bImgPathIsURL: 0
+-
+  ID: 70
+  RecordCategory: 1
+  RecordNumber: 1025
+  RecordDate: "2005-11-10"
+  ChallengerID: 9
+  RecordSummary: "Ate two-hundred (200) gummy bears in one (1) hour"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 1
+  FailureDetails: "In this, his first official food challenge, Ryan oozed confidence about how he was going to pummel the existing record. After a breakfast-free start to his day and some delays, he [finally] made it to the Golden Corral Buffet & Grill. Bring on the Gummies. Upon counting out the first plate full of the still-squirming bears, an official noted how non-fresh these not-so-gummy bears actually were. Ryan's jaw did not seem to care, until after about ten (10) full bears. Talk about some mandibular mayhem! Ouch.<BR />\r\nAt about the half-way point of the challenge, the ingested bears seemed to migrate their way south, and Ryan opted to free them from their tummy tomb (read: deuce). Now that is \"straight-piped\". Soon after dropping that batch bears off to the super bowl, in set the realization that failure might be possible, and Ryan began the cursing. He was able to break the two-hundred (200) bear barrier before his fullness stopped him, nearly sending him into hibernation himself. Ryan really had a bear of a time with this challenge, but this will surely not be his last attempt. Nice try, Ryan."
+  bImgPathIsURL: 0
+-
+  ID: 36
+  RecordCategory: 1
+  RecordNumber: 1026
+  RecordDate: "2004-02-09"
+  ChallengerID: 29
+  RecordSummary: "Two (2) 16 fluid ounces jars of pepperoncinis"
+  RecordDetails: "Edward engaged in a head-to-head pepperoncini challenge with Misty Price. The goal was to be the first one to finish their two (2) 16 fluid ounce containers of pepperoncinis and then eat one cherry pepper. Edward was able to do so first, finishing in 12 minutes. The two containers totaled 14 ounces of pepperoncinis (excluding juice and stems). Though each contestant's tongue turned chartreuse green-yellow, only Edward was able to showoff a bright red neck rash."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 62
+  RecordCategory: 1
+  RecordNumber: 1027
+  RecordDate: "2005-06-09"
+  ChallengerID: 35
+  RecordSummary: "Ate 19.25 ounces of peanuts for a total of 275 grams of fat."
+  RecordDetails: "Greg crunched down eleven (11) 1.75 ounce bags of peanuts. Each bag contained twenty-five (25) grams of fat. This snack totaled 275 grams of fat; that is 9.7 ounces of fat! In this, his first non-failed challenge, Greg employed several techniques to achieve the lofty goal of downing 0.6 pounds of fat.  Some of the several techniques were the genuflect gobble, the light-in-the-loafers-leap-about, and the workstation box sprawl. As always, Greg was able to work in his now famous catch phrase, \"It hurts\". On two separate occasions, Greg dispersed the crowd like Dawn dish soap does grease when he nearly vomited, with a few of them in the would-be projectile's path. Except during the two scares, spectators kept flowing a steady stream of euphemisms about eating nuts. Mentions of \"nut bags\" and of \"deez nuts\" were aplenty, and kept spectators in stitches."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 41
+  RecordCategory: 1
+  RecordNumber: 1028
+  RecordDate: "2004-03-26"
+  ChallengerID: 30
+  RecordSummary: "Twenty two (22) fortune cookies"
+  RecordDetails: "Misty crunched up twenty-two (22) regulation size fortune cookies from King Chef. She achieved this feat in 37 minutes, using only water to help her through the event. Additionally, Misty downed one (1) fortune from one of the cookies. Watch for paper cuts later..."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 42
+  RecordCategory: 1
+  RecordNumber: 1029
+  RecordDate: "2004-04-08"
+  ChallengerID: 25
+  RecordSummary: "Sixty-one (61) ounces of strawberries"
+  RecordDetails: "Brian devoured sixty-one (61) ounces of fresh, wholesome strawberries. That's over 3.8 pounds! He enjoyed a seven (7) ounce can of fat free Reddi Whip in the process. As a sign of his confidence in this, his last challenge before age 30, Brian slurped down a large serving of spaghetti beforehand. What an eater! In this head to head challenge, standers-by noted that both challengers (Viktoriya Yurko and Brian) had glassy eyes."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 44
+  RecordCategory: 1
+  RecordNumber: 1030
+  RecordDate: "2004-06-15"
+  ChallengerID: 34
+  RecordSummary: "Ate 1.02 Bloomin' Onions from Outback"
+  RecordDetails: "Michael was able to chomp down 1.02 Bloomin' Onions from Outback Steakhouse. He enjoyed a margarita on the rocks with salt along with this tasty appetizer. For dessert, he ate 85% of a Cinnamon Apple Oblivion. The onions were a reported 2630 calories. Nutritional facts still being investigated..."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Michael was attempting to eat two (2) entire Bloomin' Onions. Yes, he barely made it into the second onion, but it was monsterous. Even bigger than the first. Michael reported that his trip to the restroom the next morning filled his nasal passages with the scent of \"sweet Vidalia onions\"."
+  ImgPath: "imgs/bloominonion01.jpg,imgs/bloominonion02.jpg,imgs/bloominonion03.jpg,imgs/bloominonion04.jpg"
+  bImgPathIsURL: 0
+-
+  ID: 45
+  RecordCategory: 1
+  RecordNumber: 1031
+  RecordDate: "2004-07-15"
+  ChallengerID: 34
+  RecordSummary: "Downed 84.8 ounces of chocolate malt"
+  RecordDetails: "Michael slurped down 84.8 ounces of chocolate malt from Dairy Queen Brazier. That was about 2.65 large chocolate malts. How did he like it? \"I'm enjoying this, this is good shit\". He had the challenge relocated to the outdoor eating area, as the malts were freezing his innards. These cool treats resulted in 3498 calories worth of energy for Michael."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Michael was attempting to slug down three (3) large chocolate malts. After seeing him devour two malts in 25 minutes, spectators were sure that he would succeed. Then, about half way through the third malt, Michael was stopped cold. After walking about to try to ease the discomfort, Michael burped up a bit of malt. Then, a short bit later, he was seen being a malt fountain, spewing an arch of malt for approximately three (3) seconds. The nearby mother and daughter enjoying their own cool treats did not seem to notice. Michael noted that the discarded malt was still cold."
+  bImgPathIsURL: 0
+-
+  ID: 46
+  RecordCategory: 1
+  RecordNumber: 1032
+  RecordDate: "2004-10-18"
+  ChallengerID: 31
+  RecordSummary: "Consumed 4 rolls of sushi and one dozen dumplings"
+  RecordDetails: "Troy took off his shoes and ordered up four (4) rolls of sushi along with two (2) orders of dumplings, which totaled twelve (12) dumplings altogether.  Rolls breakdown: 2 California rolls, 2 eel rolls, for a total of 24 portions of sushi. At the Uki restaurant, Troy chopped-sticked those morsels down into his belly in around 52 minutes.  This included a 20 minute gap in action while waiting for the rolls. Attendees of the event hypothesized about the spectacular colors that Troy might be able to produce in his next few trips to the restroom."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 49
+  RecordCategory: 1
+  RecordNumber: 1033
+  RecordDate: "2004-11-09"
+  ChallengerID: 35
+  RecordSummary: "Ate just over 16 fl. oz. of sliced jalape&#241;os"
+  RecordDetails: "Greg snacked on 16.02 ounces of delicious, zesty Vlassic Jalape&ntilde;o slices. He was able to do so in 57 minutes and 23 seconds. Quite a feat, considering that the sweat began flowing and the eyes began watering at about the 3 minute mark.  Perseverance. Greg's fork was eventually shaking at nearly supersonic speeds. To make a meal of it, Greg added part of a glazed yeast doughnut, a pint of milk, and about a quarter of a napkin to the feast. Quotes of interest: \"I'm having some issues right now\", \"Tongue burning, eyes sweating, bowels churning, must finish jar of jalape&ntilde;os\", and \"This is some whack shit, yo\"."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Greg was trying to consume the contents of two (2) 16 fluid ounce jars of jalape&ntilde;os. He fell a touch short, only eating one jar and two (2) pepper slices from the second jar. However, as a \"can't keep me down\" bonus, Greg slurped down twelve (12) ounces of K.C. Masterpiece Honey Brown Sugar barbeque sauce in 4 minutes, 28 seconds after stopping the challenge at hand."
+  bImgPathIsURL: 0
+-
+  ID: 50
+  RecordCategory: 1
+  RecordNumber: 1034
+  RecordDate: "2004-11-09"
+  ChallengerID: 13
+  RecordSummary: "Guzzled down 18 ounces of barbeque sauce"
+  RecordDetails: "Matt guzzled down eighteen (18) ounces of K.C. Masterpiece Honey Brown Sugar barbeque sauce in 34 minutes and 30 seconds. He only employed the \"nose-plugging\" technique during the last few swigs of sauce. Matt convinced several audience members that the challenge was \"rough\". Some plain chicken may have helped Matt in his plight."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Matt was trying to coat his stomach with thirty-six (36) ounces of delicious barbeque sauce.  He fell a bit shy, fighting to make it to the half-way point. Matt ate part of a stale, glazed yeast doughnut to make the sauce taste even better."
+  bImgPathIsURL: 0
+-
+  ID: 52
+  RecordCategory: 1
+  RecordNumber: 1035
+  RecordDate: "2005-01-05"
+  ChallengerID: 33
+  RecordSummary: "Steve ate 22 full-sized chicken legs from BW3's"
+  RecordDetails: "Steve devastated twenty-two (22) full-sized chicken legs from BW3's. The poor legs did not stand a chance. There were six (6) flavors of sauces ranging from sissy mild to painfully hot. The legs were divvied up into six (6) groups of four (4), with each group of four doused in progressively hotter sauce. While many thought that the spiciness would be Steve's undoing, it was the sheer volume. The only sign of any effects of the spiciness was Steve wiping perspiration from his head. What an iron mouth (and gastral system).  More images can be found in the <A HREF='http://ddayinc.com/gallery/records/chickenlegs/' TARGET='_blank'>gallery</A> (opens in new window)."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Steve was attempting to eat 25 chicken legs total.  Just three more?"
+  ImgPath: "imgs/chickenlegs/03-thereHeGoes.jpg,imgs/chickenlegs/05-toasty.jpg"
+  bImgPathIsURL: 0
+-
+  ID: 53
+  RecordCategory: 1
+  RecordNumber: 1036
+  RecordDate: "2004-12-08"
+  ChallengerID: 27
+  RecordSummary: "Ate four (4) bowls of food at Mongolian Barbecue"
+  RecordDetails: "Brandon wowed lookers-on as he just kept going back for more at the Mongolian Barbecue. He ended his eating-spree after enjoying four (4) full bowls of food (pre-cooked volume). He garnished the morsels with white rice. The next closest amount eaten at the establishment is three (3) bowls. When reflecting upon the event, Brandon recalled that he \"shit out a graveyard\" afterwards."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 56
+  RecordCategory: 1
+  RecordNumber: 1037
+  RecordDate: "2005-01-28"
+  ChallengerID: 31
+  RecordSummary: "Ate three (3) family size tubs of coleslaw from KFC"
+  RecordDetails: "Troy ordered up three (3) family-size tubs of creamy coleslaw from KFC. He was able to down all 39 ounces of the tasty side dish (minus the leftover slaw squeezins) in about 42 minutes. To break up the monotony of the taste of the vinegary treat, Troy munched three (3) of the Colonel's biscuits. Finger lickin' good.  Though Troy seemed to handle the challenge in stride, he did show a sign of his internal struggle when he announced \"I'm done talking to you guys\" approximately 25 minutes after starting."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 57
+  RecordCategory: 1
+  RecordNumber: 1038
+  RecordDate: "2005-02-17"
+  ChallengerID: 35
+  RecordSummary: "Ate 10.75 ounces of Christmas popcorn (butter, caramel, cheese)"
+  RecordDetails: "Greg crunched and munched his way through 10.75 ounces (cooked weight) of delicious popcorn from a Christmas sampler tin. The tin had three (3) tempting flavors: cheese, rich caramel, and artificial-imitation butter. He demonstrated an assortment of eating techniques, ranging from the stand and stash to the kneel and gnash to the very effective steam-shovel stuff. A real trooper, Greg was careful to collect any and every dropped nugget of popped corn, placing it back in the tin of joy to be enjoyed later in the event. And, of course, Greg uttered his catch-phrase, \"it hurts\", a few times during his challenge.  Always a crowd pleaser."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Greg was attempting to eat approximately 1.8 pounds of popcorn. Maybe next time, Orville."
+  bImgPathIsURL: 0
+-
+  ID: 61
+  RecordCategory: 1
+  RecordNumber: 1039
+  RecordDate: "2005-04-21"
+  ChallengerID: 0
+  RecordSummary: "Ate 35 ounces of sweetened applesauce in 17 minutes"
+  RecordDetails: "Matt gulped down thirty-five (35) ounces of sweetened applesauce in seventeen (17) minutes. Quick math: 2.25 pounds. Matt was a bit unsure going into the event after the previous day's trial run in which he hurled the healthy treat about fifteen seconds after starting. He fared far better in the actual event, slugging down swig after swig of the slightly lumpy, room temperate side dish without much threat of blowing sauce. As this was not a premium brand of sauce, it was a bit less smooth and a bit more \"vomity\" in texture. One spectator noted that the \"stares\" started at about the 7 minute mark -- Matt got the 100 yard stare. After finishing up the apple squeezin's with only a slight delay, he went out to a celebratory lunch. He ate four (4) of the nacho chips that he ordered. What a celebration."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Matt was attempting to devour the 35 ounces of apply goodness in 16 minutes. So close, Johnny Appleseed."
+  bImgPathIsURL: 0
+-
+  ID: 86
+  RecordCategory: 1
+  RecordNumber: 1057
+  RecordDate: "2010-05-05"
+  ChallengerID: 21
+  RecordSummary: "Ate ten (10) Kolache balls in 10 minutes 52 seconds"
+  RecordDetails: "Kolaches (aka \"kol?&#269;e\") -- \"a type of pastry consisting of fillings ranging from fruits to cheeses and/or meats inside a bread roll.\" They sound good; they are good. So good that Kyle decided to see how many he could eat. The Kolache Factory has them and Kyle \"the Kolache Killer\" Kilgore kills them.<BR />\r\nKyle ordered up eight (8) to start:<BR />\r\n<SPAN CLASS=\"indented\">one</SPAN> (1) bacon & cheese<BR />\r\n<SPAN CLASS=\"indented\">four</SPAN> (4) pepperoni & mushroom<BR />\r\n<SPAN CLASS=\"indented\">two</SPAN> (2) BBQ beef<BR />\r\n<SPAN CLASS=\"indented\">one</SPAN> (1) Kolache of the Month, \"Not So Sloppy Joe\"<BR /><BR />\r\n\r\n<SPAN CLASS=\"indented\">A</SPAN> judge called \"start\", Kyle put the pedal to the metal and began pummeling pastries. The first was gone in sixty (60) seconds. The sequel: another one gone in another sixty (60) seconds. In fact, Kyle held the one-kolache-per-minute pace through the first seven -- Angelina would have been impressed.<BR />\r\n\r\n<SPAN CLASS=\"indented\">A</SPAN>t about the eight (8) minute mark, and after two (2) more kolaches were acquired, Kyle began back at it. Number nine was just off of the pace. Then, number ten: the mightiest kolache yet, the little kolache that could. It fought back, determined to rob Kyle of his victory, but the scuffle was short lived; it turned out to be the little kolache that could not. Kyle kicked back this final kolache just before the eleven minute mark for a low, low time of ten (10) minutes and fifty-two (52) seconds. Ahh, nothing to do now but sit back and savor the flavor of the little buns now in his oven.<BR />\r\n\r\n<DIV CLASS=\"txtC\"><IMG ALT=\"Kolache balls!\" TITLE=\"Kolache balls!\" SRC=\"imgs/icons/kolacheicon.gif\"></DIV>"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "imgs/kolaches-eight.jpg"
+  bImgPathIsURL: 0
+  ImgPathAltText: "Kolache balls!"
+-
+  ID: 64
+  RecordCategory: 1
+  RecordNumber: 1041
+  RecordDate: "2007-03-02"
+  ChallengerID: 23
+  RecordSummary: "Ate sixty-six (66) chicken nuggets from McDonald's"
+  RecordDetails: "Danny reached new heights in chicken nugget chomping by devouring sixty-six (66) McDonald's chicken McNuggets. The challenge began in heads-up battle mode, but Danny eventually left the competition in the bread pan as the chicken eating carnage continued.<BR />\r\n<SPAN CLASS='indented'>An</SPAN> awe-struck crowd watched on as Danny laid waste to nugget after nugget, soon making it to the sixty (60) nugget mark. Then, the chicken may have begun fighting back. The <A TITLE='McMega McNuggies' HREF='http://ddayinc.com/gallery/records/chickennuggets200703'>Records Gallery - Nuggets</A> shows the drama escalate as it came down to the final half-dozen nuggs. As captured in one of the images, there seemed to be an angel present, guiding those chicken-like morsels down Danny's gullet. Overall, he was able to choke down over two (2) pounds of chicken: scientifically approximated weight of actual chicken: nine (9) ounces. Ronald: \"Filler, what's that?\"<BR />\r\n<SPAN CLASS='indented'>About</SPAN> one (1) hour after the challenge, when asked, \"Was there a chicken fountain?\", Danny responded with:  \"No chicken fountains... I did, however, lay a couple of eggs.\" That is clucked up."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/chickennuggets200703"
+  bImgPathIsURL: 1
+  ImgPathAltText: "McMega McNuggies"
+-
+  ID: 65
+  RecordCategory: 1
+  RecordNumber: 1042
+  RecordDate: "2005-09-15"
+  ChallengerID: 36
+  RecordSummary: "Ate 18.75 ounces of spreadable Swiss flavored cheese"
+  RecordDetails: "Viktoriya \"Red\" Yurko nibbled down 18.75 ounces of Laughing Cow Light spreadable Swiss flavored cheese in about thirty (30) minutes. Things started out well, but then slowed down a bit. She attempted to boost her spirits by conversing with her challenge support team, but to no avail.  She threw crackers into the mix, which broke up the monotony of the moldy morsels a might. As the cheese wheel turned, Viktor noticed that \"little pieces of cheese were getting stuck in the middle of [her] spine, causing it to pain\". Ouch. After struggling on, and a feeling of imminent regurgitation, Viktoriya reached her peak of twenty-five (25) wedges. Good job, Chuck E."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Viktor was attempting to eat thirty-six (36) ounces of delicious cheese, but after about 1/2 dozen cheese wedges (0.75 ounces each), Vik \"knew [she] was not going to be able to complete the assignment\". After a baker's dozen of the Laughing Cow's cheese wedges, Red felt a \"strong tickle\" on the right side of her head. The Cow did not stop tickling her until she said 'uncle'. After sixteen (16) Cow wedges she developed a slight fever. That is how to tell that you have selected a fine cheese product. After the 2nd dozen of wedges, the urge to purge came over Viktoriya. So, she ate a piece of candy and threw down one more wedge for good measure. The Cow got the last laugh, stopping her short of her goal. She did keep down the wholesome goodness, though.<BR />Side note: Viktoriya actually laughed the last laugh about four (4) hours after the challenge upon utilizing the latrine and disproving the age old adage about the cork-like effect of large quantities of cheese on the user's system. Ha."
+  ImgPath: "imgs/vyurko-cheese0.jpg,imgs/vyurko-cheese1.jpg"
+  bImgPathIsURL: 0
+-
+  ID: 66
+  RecordCategory: 1
+  RecordNumber: 1043
+  RecordDate: "2009-08-25"
+  ChallengerID: 14
+  RecordSummary: "Ate five (5) quarter-pound hotdog sandwiches in 20 min, 55sec"
+  RecordDetails: "Alex, in his maiden challenge, decided to tackle an existing record, believing that he could better said record by eating five (5) quarter-pound hot dogs from the exclusive Sam's Club in less than twenty-two (22) minutes.<BR />\r\n<SPAN CLASS='indented'>The</SPAN> start: obvious excitement. Alex was raring to go. One of the event coordinators reported that the anxious Alex thought that he might even dispatch the delicious dogs in less than ten (10) minutes. \"Go!\", called the time keeper.  Alex tore into the first delectable dog, which he destroyed in the blink of an eye: gone in fifty-five (55) seconds. Now for the second wiener dog: sent to meet its maker in another short eighty-five (85) seconds, putting Alex at the 2m 20s mark. \"These <I>are</I> juicy\", he noted.<BR />\r\n<SPAN CLASS='indented'>An</SPAN> astonishing pace -- can this dog whisperer keep it up? 0.5 flavor-packed hot dogs later: \"No\". Alex shows his first sign of relenting. And, to the crowd's dismay, utters something about the dreaded \"wall\", followed by \"That's a lot of meat!\"<BR />\r\n<SPAN CLASS='indented'>Passers-by</SPAN> scarcely paid attention to the action-packed event, until Alex started \"making room\", burping out several air pockets of wasted space. One of the powerful belches scared a small child as she strolled by the challenge area. The ladies seated at the table in front of Alex did not appear to mind too much, though the breeze from another of the mighty expulsions surely brushed by them. He briefly entertained the idea of making room by visiting the latrine, but no one seemed interested in accompanying him.<BR />\r\n<SPAN CLASS='indented'>After</SPAN> clearing his mind, Alex went back on the offensive. He finished the third-, and then, with more calculated, precise bites, eventually made it through the fourth delightful dog. He periodically chatted up his peeps on the cellaphone, and sent out the occassional text. Finally -- the fifth and final hot dog. Alex was occasionally letting people know that there is a whole lot of meat flavor in those heavenly hot dogs, and pushed on towards the finish. Time began to get short, and Alex needed one more focus-session. With renewed vigor, he attacked the final hind quarters of the dog, taking approximately four (4) bites to give the last hot-diggity dog its new [temporary] home.<BR />\r\n<SPAN CLASS='indented'>Total</SPAN> time: 20m 55s. Alex has become the wiener dog king.  For now...\r\n<DIV CLASS=\"txtC\"><IMG ALT='Wiener Dogs' TITLE='Wiener Dogs' SRC='imgs/dogicon.gif' /></DIV>\r\n"
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/qpkd_alex_20090825"
+  bImgPathIsURL: 1
+  ImgPathAltText: "Wiener Dogs!"
+-
+  ID: 67
+  RecordCategory: 1
+  RecordNumber: 1044
+  RecordDate: "2005-09-21"
+  ChallengerID: 30
+  RecordSummary: "Ate 48.75 ounces of Jello in twenty (20) minutes"
+  RecordDetails: "Misty slurped down 48.75 ounces (over three (3) pounds) of delicious Jello brand gelatin in twenty (20) minutes. From the word \"go\", she was like a school kid afraid that she was not going to get her share of the goods, tearing through them so quickly that she cut herself on one of the cups! Misty employed the \"chipmunk-cheeks\"- and \"gopher-jowls\" techniques to help her conquer the fifteen (15) Jello cups. The Jello bent to her will the entire challenge, until the last cup. Almost immediately after said cup, Misty found herself gathering her things in preparation to disgorge the sugar-free snack. She dashed outdoors and emitted some Jello-air. Misty was able to keep the Cosby treats down, down in her belly. Whew, that was close (but, her kidneys' output sent her to the latrine five (5) times in the following two (2) hours).<BR />Flavors: cherry, black cherry, orange, lime, and strawberry.<BR />Total Jello calories: 150 (a great, light snack for you dieters out there).<BR />Time until next hunger pang: about two (2) hours."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "imgs/mprice-jello01.jpg,imgs/mprice-jello02.jpg,imgs/mprice-jello03.jpg,imgs/mprice-jello04.jpg,imgs/mprice-jello05.jpg,imgs/mprice-jello06.jpg"
+  bImgPathIsURL: 0
+-
+  ID: 68
+  RecordCategory: 1
+  RecordNumber: 1045
+  RecordDate: "2005-09-28"
+  ChallengerID: 27
+  RecordSummary: "Ate four (4) pounds of french vanilla yogurt in nine (9) minutes"
+  RecordDetails: "Brandon shoveled down four (4) pounds of flavorful vanilla yogurt in nine (9) minutes. Within the first three (3) minutes, he had obliterated the first of the two (2) 2-pound vats of the bone-and-teeth-friendly treat. About 1/2 way through the second vat, Brandon stopped to enjoy some fresh Pepsi. After the ensuing belch-fest, he got back to it, finishing the second vat at about the nine-minute mark. Done! Lookers-on observed the ghostly whiteness that had come over Brandon's complexion, some fearing that failure (regurgitation) was imminent. Like a rock, Brandon did not falter; he kept the yogurt down. His skeletal system rejoiced, \"I'm gonna be so much stronger, now!\""
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 69
+  RecordCategory: 1
+  RecordNumber: 1046
+  RecordDate: "2006-04-20"
+  ChallengerID: 33
+  RecordSummary: "Ate twenty-one (21) tacos (3.6 lbs.) from Taco Bell"
+  RecordDetails: "Steve crunched his way through twenty-one (21) beef tacos -- all hard-shell. The weight: he was able to choke down about 3.6 pounds (1,638g) of authentic Taco Bell tacos. The time: fifty-nine minutes and twenty-four seconds (59m 24s) -- about thirty-six (36) spare seconds in the one-hour timed challenge. Steady in pace throughout the challenge, Steve was forced to stuff face during the last two (2) minutes or so, furiously chomping away at the final taco and shoveling-in the 'shrapnel' that had fallen to the table below his dangerous pie hole.<BR />\r\n\r\n<SPAN CLASS='indented'>When</SPAN> he began, Steve announced that he does not even like Taco Bell tacos; he echoed this sentiment several times throughout the challenge. As one spectator pointed out, this dislike is quite the opposite of the norm for a regular food challenge attempt. Usually the contestant thoroughly enjoys, or at least mildly tolerates, the subject of their challenge. The distaste for the subject usually grows as the challenge progresses. Steve seems to select a subject that displeases him, attack it in a food challenge, and then develop a fondness for the item at some point after the challenge (he went through this cycle at the time of his BW3's chicken leg challenge).<BR />\r\n\r\n<SPAN CLASS='indented'>A</SPAN> local photographer captured oodles of challenge images (and some images of the peanut-gallery). Side note: the given Taco Bell was quite a bee's nest of honeys, of whom the photographer captured some images (mostly by design) in his fine camera work."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/stevetacos"
+  bImgPathIsURL: 1
+  ImgPathAltText: "Taco-Tico"
+-
+  ID: 72
+  RecordCategory: 1
+  RecordNumber: 1048
+  RecordDate: "2007-05-10"
+  ChallengerID: 19
+  RecordSummary: "Drank one-hundred sixteen (116) ounces of 2% homogenized milk"
+  RecordDetails: "In what was the inaugural challenge for the Pennsylvania branch of challengers, Tim drank down about 116 ounces of fresh, wholesome 2% milk. He paced himself well, getting to about twelve (12) ounces left with seven (7) minutes to go in the hour. Then, cube-neighbors \"heard moaning coming from his cube until we heard the whoshing sound and [liquid] hitting the garbage can\". That's right, Tim did this challenge in his cube. One neighbor fled the area after the five (5) milk trucks came driving up out of Tim's dairy case. Tim: \"I thought I was going to make it, and then the donkey kicked and it was over. About five (5) good flows of the white stuff\".<BR />\r\n<SPAN CLASS='indented'>Another</SPAN> spectator, when asked about the aftermath, stated that he did not want to get too close to the destruction, understandably. He did, however, surmise that Tim had eaten a hot dog for breakfast, presumably from the odors/sounds emanating from Tim's cube.  Was Tim practicing for the wiener dog challenge, potentially? We may never know, but one thing is for sure -- Tim is one tough competitor:  after making a milk pond in a trash bag, Tim \"just kinda wiped his chin and was fine\". Unphased. Hopefully the world will learn more about this milk maniac through his future endeavors...  We shall see.  Moo.<DIV CLASS=\"txtC\"><IMG ALT='Moo' TITLE='Moo' SRC='imgs/icons/dcow.gif' /></DIV>"
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Tim was trying for one (1) gallon of milk. Maybe next time, Dairy King."
+  ImgPath: "imgs/thillman-milk01.jpg,imgs/thillman-milk02.jpg,imgs/thillman-milk03.jpg"
+  bImgPathIsURL: 0
+  ImgPathAltText: "Wholesome"
+-
+  ID: 79
+  RecordCategory: 1
+  RecordNumber: 1054
+  RecordDate: "2007-07-03"
+  ChallengerID: 6
+  RecordSummary: "Ate one (1) Big Ugly burger from Bub's Burgers (22oz of meat)"
+  RecordDetails: "Marianne was feeling fiesty for this, her first fine feast at Bub's Burgers -- finally. She ordered up a famous Big Ugly, listened intently as the server read her the rules, and licked her chops, barely able to wait for the cooks to frizzle-fry up that tasty burger. Holy big burgers!<BR />\r\n<SPAN CLASS='indented'>The</SPAN> stages (common to most challenges):<BR />1) Wow'd by all that meat.<BR />2) Ecstasy as she prepared to partake.<BR />3) Laughter -- what a fun little game<BR />4) Struggle -- must.. keep.. eating...<BR />5) Success.<BR />\r\n<SPAN CLASS='indented'>She</SPAN> had been able to keep her skirt on; she needed only to unfasten it a few notches to make room. After killing the Big Ugly, Marianne sat contented, holding her head up high. Only thing left to do: pat the belly and wait for that meat baby to be born. Side note: Marianne was honored on Bub's wall with a traditional \"I ate a Big Ugly\" victory picture.<DIV CLASS=\"txtC\"><IMG ALT='Meat' TITLE='Meat' SRC='imgs/icons/d-yo-hamburger.gif' /></DIV>"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/bigassburger-marianne2007"
+  bImgPathIsURL: 1
+  ImgPathAltText: "Meat"
+-
+  ID: 75
+  RecordCategory: 1
+  RecordNumber: 1049
+  RecordDate: "2007-02-23"
+  ChallengerID: 7
+  RecordSummary: "Ate ten (10) McDonald's Double Chese burgers in sixty (60) min"
+  RecordDetails: "Ryan \"Bob\" Barker chomped down ten (10) delicious McDonald's double cheese burgers (\"dcb's\") in right at sixty (60) minutes. Barker began the devastation by killing two (2) of the dcb's in just four (4) minutes. He even doubled-up on numbers 5 and 6, effectively killing a quadruple cheese burger. The fevered pace eventually slowed, but Barker remained all smiles. As any good showman, Barker kept the suspense high throughout the competition. He took the challenge down to the wire, finishing the last bite just as time expired (many thanks to the supportive lookers-on). Barker's new nickname: The Cheeseburglar.\r\n<BR /><SPAN CLASS='indented'>At</SPAN> 165g (5.8 oz) each, the dcb's totaled 1650g, which is 58.2 ounces; that is 3.63 pounds! And, at 440 calories each (down from the 460 calories that dcb's of Jan 2006 possessed), Barker ended up ingesting 4400 calories. Thanks for the high-energy lunch, Ronald!<BR />\r\n<SPAN CLASS='indented'>Barker</SPAN> was spotted leaving the main wing's restroom about 1.5 hours after the competition concluded, still carrying a dashing smile. Do-do-do-do-doo, I'm lovin' it!"
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/doublecheeseburgers2007"
+  bImgPathIsURL: 1
+-
+  ID: 27
+  RecordCategory: 2
+  RecordNumber: 2001
+  RecordDate: "2003-01-13"
+  ChallengerID: 3
+  RecordSummary: "66,369 files"
+  RecordDetails: "Analyst Matt Boren was archiving a customer's data to CD. In searching for critical data, Matt happened across the 'Temporary Internet Files' directory, which contained 66,369 files.  These files totaled 500 MB (524,435,525 bytes). Quite remarkable, considering that the PC used dial-up for connectivity to the internet."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "imgs/mosttmpinetfiles01.jpg"
+  bImgPathIsURL: 0
+-
+  ID: 26
+  RecordCategory: 2
+  RecordNumber: 2002
+  RecordDate: "2003-09-23"
+  ChallengerID: 5
+  RecordSummary: "75% fragmented drive"
+  RecordDetails: "18.6 GB hard drive with about 7.7% free space (1,475 MB free) was about 75% fragmented. Analysts working on this laptop noticed poor response time even during simple operations (ex., when pressing a key). Killing extraneous garbage from drive and defragging it seemed to help (tremendously)."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "imgs/mostfragmenteddrive01.png"
+  bImgPathIsURL: 0
+-
+  ID: 25
+  RecordCategory: 2
+  RecordNumber: 2003
+  RecordDate: "2003-09-23"
+  ChallengerID: 5
+  RecordSummary: "11.3 GB temp file"
+  RecordDetails: "User had a reasonably large temp file on her laptop.  It was 11.3 GB (12,166,386,646 bytes), and its name was 'hp77.tmp'.  It seems to have taken about 30.233 minutes to make (time estimate extracted from file attribute times).  File was wedged between the rest of her data on the laptop's 18.6 GB hard drive (1.44 GB free space)."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "imgs/largesttmpfile01.png"
+  bImgPathIsURL: 0
+-
+  ID: 43
+  RecordCategory: 2
+  RecordNumber: 2004
+  RecordDate: "2004-04-27"
+  ChallengerID: 4
+  RecordSummary: "PC had 3787 infected files"
+  RecordDetails: "User's PC was infected with a virus. A virus scan found 3787 infected files. Is that a problem?"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "imgs/mostinfectedfiles01.png"
+  bImgPathIsURL: 0
+-
+  ID: 51
+  RecordCategory: 2
+  RecordNumber: 2005
+  RecordDate: "2003-10-01"
+  ChallengerID: 2
+  RecordSummary: "Novell file server in Florida was up for 592 days"
+  RecordDetails: "A Novell Netware file server in Florida had been up for almost 593 days (592d, 20h, 7m, 12s) when support personnel took it down in the course of applying a service pack. Note that the server 951 open connections and 1903 open files.\r\n"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "imgs/uptime-sfl1.png"
+  bImgPathIsURL: 0
+-
+  ID: 31
+  RecordCategory: 1
+  RecordNumber: 1050
+  RecordDate: "2006-01-27"
+  ChallengerID: 15
+  RecordSummary: "Ate 17.5 hard tacos (3 lbs.) from Taco Bell in 30 minutes"
+  RecordDetails: "Michael \"Cowboy\" Foster crunched down seventeen and one-half (17.5) crunchy tacos from Taco Bell in thirty (30) minutes. That is 1,365 grams (3.0 lbs.) of terrifically tasty tacos.<BR />\r\n<SPAN CLASS=\"indented\">The</SPAN> IT folks at Quicken Loans [Detroit, MI] held the great Taco Bell crunchy taco eat-off. One-hundred-eighty (180) tacos were purchased. <SPAN CLASS='dCorrection'>Bystanders partook of 6 free Nachos Bell Grande that Taco Bell threw in free for a large order**.</SPAN> IT teams were represented as follows:<BR />\r\n<UL>\r\n	<LI>Network: Scott \"Scoot\" Kinlin</LI>\r\n	<LI>Windows Engineering: \"Wild\" Bill Parker, Joe \"The Machine\" Gazariks</LI>\r\n	<LI>IT Business Office: Andrew \"My Little Pony\" Lemanek, Michael \"Cowboy\" Foster</LI>\r\n	<LI>Data Center Management: Dan \"Old Man\" LoCicero</LI>\r\n</UL>\r\n<SPAN CLASS=\"indented\">The</SPAN> contest was held on the 4th floor ping pong table, and was overseen by Ben \"Ben\" Van Heudsen. The contestants were given one half-hour (30 minutes) to eat as many tacos as they could possibly stuff into their gaping maws. Score was kept on a whiteboard by Jason \"Mr. Metro\" Slater, with each contestant raising his hand each time he devoured a taco.<BR />\r\n<SPAN CLASS=\"indented\">Scoot</SPAN> seemed obligated to pound out belch after glass shaking belch in order to make room for his tacos. It was quickly apparent that Joe \"The Machine\" and Michael \"Cowboy\" were the two to watch. Odds favored The Machine; he had a wonderful showing in the previous week's warm-ups. However, after about the thirteenth (13th) taco, The Machine seemed in need of service.<BR />\r\n<SPAN CLASS=\"indented\">The</SPAN> final minute of the challenge saw the excitement erupt. Cheering was heard down to the first (1st) floor. The Machine was behind by one (1) taco, and seemed to be dragging. He stood up, grabbed a taco and attempted to shove the whole thing in his mouth.<BR />\r\n<SPAN CLASS=\"indented\">Ultimately</SPAN>, the IT BO Team who gained bragging rights, with Michael \"Cowboy\" tearing through <SPAN CLASS='dCorrection'>seventeen and one-half (17 1/2 or 35/2)**</SPAN> tacos. The Machine crashed at <SPAN CLASS='dCorrection'>[barely]**</SPAN> seventeen and one-third (17 1/3 or 52/3)</SPAN>. So close! The Cowboy, <SPAN CLASS='dCorrection'>[not]**</SPAN> concerned about starving children in Asia, finished his eighteenth (18th) taco with a big grin on his face after time was up. \"Slow and steady wins the race\", says the tortoise.<BR />\r\n<SPAN CLASS=\"indented\">As</SPAN> it turned out, everyone was a winner, as the extra tacos were put in the \"free food\" area of the fourth floor kitchenette. Fresh and delicious.<BR />\r\n<SPAN CLASS=\"smFootnote\">* record write-up courtesy of Greg Wojtak. Thanks, G.E.W.! &nbsp;<A TARGET='_blank' HREF='other/wojtak-TBellDetails-orig.txt'>Unedited transcript</A> available<BR />** corrections provided by Michael \"Cowboy\" Foster</SPAN>"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "imgs/quicken/boxOfTacos.jpg,imgs/quicken/pingpongTable01.jpg,imgs/quicken/pingpongTable02.jpg,imgs/quicken/scoreboard.jpg"
+  bImgPathIsURL: 0
+-
+  ID: 77
+  RecordCategory: 1
+  RecordNumber: 1051
+  RecordDate: "2007-02-27"
+  ChallengerID: 9
+  RecordSummary: "Ate twenty (20) breadsticks in thirty-seven (37) minutes"
+  RecordDetails: "In a spontaneous show of ambition, Ryan Birk\"-alicious\" called out an impromptu challenge -- twenty (20) breadsticks -- on the way to lunch. Hello, Fazoli's. The show started with great news for Birk -- he would only have to pay for four (4) sticks -- Fazoli's would spot him the rest from their bottomless basket o' b-sticks. Yesss.<BR />\r\n<SPAN CLASS='indented'>After</SPAN> laying out a few stacks, Birk got to the order of business at hand: pummeling a pile of sticks. He doubled up, smeeshing two (2) b-sticks into the size of one, thereby halving the amount of work that his mandibles would have to put forth. This fearsome pace continue on through the first half of the event. While there was briefly a question about keeping this food furnace fueled, any such concern was soon squelched as the b-stick fairy came by with her abyss of buttery, garlicky b-sticks and restocked the pile. Whew.<BR />\r\n<SPAN CLASS='indented'>After<SPAN> slowing to a crawl, a few walkabouts, and an unconfirmed deuce, Birk resumed the b-stick bashing, beating eight (8) more hapless sticks into submission. The last two (2) sticks put up a valiant fight, but alas, Birk proved too much for the high-carb challenge. Twenty (20) Fazoli's breadsticks in about thirty-seven (37) minutes. Next event: playing Wonder Bread factory in the first stall of the men's restroom."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/breadsticks200702"
+  bImgPathIsURL: 1
+-
+  ID: 78
+  RecordCategory: 1
+  RecordNumber: 1052
+  RecordDate: "2007-04-18"
+  ChallengerID: 7
+  RecordSummary: "Ate four (4) Burger King Quad-Stackers"
+  RecordDetails: "Ryan stacked four (4) Burger King Quad-Stackers in his [bottomless?] belly. In a fashion which is quickly becoming his trademark, he leisurely munched on the big ol' burgers as though he was enjoying a pic-uh-nic basket at the park. He had downed seventy-five percent (75%) of the big-as-a-baby's-head burgers before some spectators even had the chance to finish their measly one (1) Whomper meal.<BR />\r\n<SPAN CLASS='indented'>An</SPAN> onlooker's comment that the burly burger bore a resemblance to a beat-down beaver seemed to fuel Ryan's eating-machine fire. Has this man no limits? There was only one (1) display of mortality, visible when Ryan proclaimed \"that was close\" after a particularly meaty burp. Will all records soon belong to Ryan \"Bob\" Barker? At this rate, no record is safe. As an aside:  These bountiful beef bombs totaled four-thousand (4000) calories, and two-hundred seventy-two (272) grams of delicious fat.<DIV CLASS='txtC'><IMG ALT=\"It's good to be king!\" TITLE=\"It's good to be king!\" SRC='imgs/icons/crown.gif' /></DIV>"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/quadstackers-20070418"
+  bImgPathIsURL: 1
+  ImgPathAltText: "That's meaty"
+-
+  ID: 80
+  RecordCategory: 1
+  RecordNumber: 1053
+  RecordDate: "2007-07-03"
+  ChallengerID: 7
+  RecordSummary: "Ate one (2) Big Ugly burger from Bub's Burgers (44oz of meat)"
+  RecordDetails: "Ryan put the smackdown on two (2) Big Ugly burgers from Bub's Burgers, each of which had a twenty-two (22) ounce (pre-cooked weight) patty. Ryan fired it up in fine fashion, ready to conquer the burger world. Part of the way through the first Big Ugly, Ryan ordered the second.  Shortly after finishing the first, he also ordered the third, as it was taking the cooks so long. Confidence supreme.<BR />\r\n<SPAN CLASS='indented'>Next,</SPAN> the next burger. Ooph. \"Lookit all that meat\", exclaimed an excited entourage member (to himself, of course, so as not to discourage \"The Machine\"). Ryan kept working and working, all the while growing less and less confident. He came to realize that this off-the-cuff event may have gone better with some prior planning, and that three (3) Big Ugly burgers was probably out of his reach that day. He had a lot of hopes riding on his attempt -- even the waitress was giving strong words of encouragement, and she too was crushed when Ryan had to waive off on the third burger.<BR />\r\n<SPAN CLASS='indented'>Is</SPAN> this eater really human? Does he actually have limits? He may have hit a wall this day, but he has vowed to make it back after some training/planning, and will again fight to conquer three (3) Big Ugly burgers. Not only would he be the first person in the restaurant's history to do so, the restaurant would hang a life-size poster of Ryan to immortalize and celebrate the triumphant eating machine. Some day.<DIV CLASS=\"txtC\"><IMG ALT='Meat' TITLE='Meat' SRC='imgs/icons/d-yo-hamburger.gif' /></DIV>"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/bigassburgers-barker2007"
+  bImgPathIsURL: 1
+  ImgPathAltText: "Meat"
+-
+  ID: 81
+  RecordCategory: 1
+  RecordNumber: 1055
+  RecordDate: "2007-07-23"
+  ChallengerID: 30
+  RecordSummary: "Ate twenty-four (24) potstickers in 31 minutes"
+  RecordDetails: "Price (aka \"P-Rice\") set out to enjoy some potstickers, and after a delayed start, did just that. Upon arriving at the eatery that was hosting the event, she came to find that they did not have any potstickers ready/waiting. So, P-Rice sat patiently, ready for the grub, while event coordinators spoke with the owners and straightened out the situation.<BR />\r\n<SPAN CLASS=\"indented\">And,</SPAN> she's off! P-Rice downed the first dozen potstickers in as many minutes. After another brief delay (for the cooks to prepare another dozen), she was again dunkin' and grinnin', stickin' it to those potstickers. Bam! In 31 minutes and 28 seconds, those poor potstickers had been pounded by the P-Rice eating machine. Was that enough to please her? Of course not -- she had a plate of food from the buffet, some dessert, and, of course, a fortune cookie. Her fortune? \"You will sit on a throne in the near future -- take something to read\".<DIV CLASS=\"txtC\"><IMG ALT='Mmm -- potstickers' TITLE='Mmm -- potstickers' SRC='imgs/icons/pstickersicon.gif' /></DIV>"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/potstickers200707"
+  bImgPathIsURL: 1
+  ImgPathAltText: "Mmmm, potstickers"
+-
+  ID: 82
+  RecordCategory: 1
+  RecordNumber: 1056
+  RecordDate: "2007-08-07"
+  ChallengerID: 24
+  RecordSummary: "Ate eighteen (18) ounces of Double Stuf Oreos in forty-five (45)"
+  RecordDetails: "Liz, in her inaugural food challenge, made all of the school kids jealous when she lived their meal-time dream: cookies for lunch. No sharing, no \"eat your vegetables\", no two-cookie limit. She enjoyed one (1) eighteen (18) ounce package of Oreos. When asked, \"Double Stuft?\", Liz exclaimed \"Of course!\". Three (3) dozen Double Stuf Oreos.<BR />\r\n<SPAN CLASS=\"indented\">After</SPAN> one-third (1/3) of the package, Liz began to get serious about the treat. She was no longer using the brute force dunk-and-slam method, but moved into the unscrew-and-savor method popularized by Oreo commercials around the world. However, Liz decided to use \"spider milk\" as one spectator called it -- Silk Soy Milk. Mmm.<BR />\r\n<SPAN CLASS=\"indented\">At</SPAN> the two-third (2/3) package mark came a food challenge staple -- the shakes. The Oreo Kid's steady hands began to tremble a bit, presumably due to the excitement (and potentially due to the 5.5oz of straight sugar in the cookies that she had consumed so far). As she neared the end of the challenge, Liz was able to retain control on at least one finger. She displayed said finger to the crowds without falter as a few hecklers began their \"eat another bag\" grumblings.<BR />\r\n<SPAN CLASS=\"indented\">Then,</SPAN> finally, the Oreo that she was looking for -- the last one. Success. Eighteen (18) ounces of Double Stuf Oreos in forty-five (45) minutes. Oh, and that sugar count? 8.25oz of sugar -- over one-half (1/2) pound. Not only did Liz get to indulge, but she ended up with a considerably fatter pocketbook. Since most of her teeth fell out almost immediately due to sugar-rot, Liz cashed in as the Toof-Fairy visited that very evening and bought the busted lot of them. Liz -- a Double winner.\r\n<DIV CLASS=\"txtC\"><IMG ALT='Double Stuft' TITLE='Double Stuft' SRC='imgs/icons/oreoicon.gif' /></DIV>"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/dblstuforeos200708"
+  bImgPathIsURL: 1
+  ImgPathAltText: "Double Stuft"
+-
+  ID: 84
+  RecordCategory: 1
+  RecordNumber: 1047
+  RecordDate: "2010-04-19"
+  ChallengerID: 41
+  RecordSummary: "Ate forty-two (42) chicken wings in thirty-seven (37) minutes"
+  RecordDetails: "Mark's maiden challenge -- and only his third time ever at a BW3's. On the day prior to the challenge (Sunday), Mark was ill (unrelated). One beneficial side effect of the illness was his system purge, making way for the goods. He decided to take nourishment from forty-two (42) regulation wings in under an hour.<BR />\r\n<SPAN CLASS=\"indented\">Step</SPAN> 0 -- Mark ordered two (2) dozen wings.  They arrived, doused in sauce like they were in a commercial.<BR />\r\n<SPAN CLASS=\"indented\">Step</SPAN> 1 -- Mark dove in, unafraid to make a mess. Napkins piled up, wet-wipes were worthless and weak. In the midst of this first set, a random waitress who had caught word of the challenge stopped by:\r\n<P>\r\nWorker bee: \"What kind of sauce, Blazin'?\"<BR />\r\nMark: \"No, it is not.\"<BR />\r\nWorker bee: &lt;extraCheery>\"Well, that's not really a challenge, then, is it?\"&lt;/extraCheery><BR />\r\nMark: \"Go away.\"<BR />\r\nPeanut gallery: &lt;heartyLaughter /><BR />\r\n</P>\r\n<SPAN CLASS=\"indented\">Step</SPAN> 2 -- ordered eighteen (18) more wings. They arrived and, per Mark's reaction at the first bite, were more thermally energetic than Billy blue blazes. After a brief cooling period, the eating resumed. Mark methodically masticated this batch with little fanfare -- straight business. Eight (8) left, then five (5) left, then two (2), then -- that's it, all gone! Forty-two (42) wings in thirty-seven (37) minutes. From sickness on Sunday to greatness on Monday.<BR />\r\n<SPAN CLASS=\"indented\">Mark</SPAN> mentioned his plans for the rest of the day: go to bed at 7pm.\r\n<DIV CLASS=\"txtC\"><IMG ALT=\"Tastes like chicken!\" TITLE=\"Tastes like chicken!\" SRC=\"imgs/icons/wingicon.gif\"></DIV>"
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/chickenwings-mark-20100419"
+  bImgPathIsURL: 1
+  ImgPathAltText: "Mark maulin' some wangs!"
+-
+  ID: 85
+  RecordCategory: 1
+  RecordNumber: 1040
+  RecordDate: "2009-12-03"
+  ChallengerID: 20
+  RecordSummary: "Consumed 30 hush puppies from Long John Silver's in thirty-two ("
+  RecordDetails: "AJ ordered up a dozen delectable hush puppies and a kid-size drink. Served on a fresh bed of \"krums\" (a.k.a. Crumblies?), the little health-pellets arrived and AJ got to work. *Chomp* -- two gone, and within five (5) minutes, AJ had downed the entire dirty dozen. \"Two more baskets, please\" -- eighteen (18) hush puppies this order. Being a chef, AJ was sure to spruce up the meal, using an array of condiments from ketchup and cocktail sauce to tartar sauce and malt vinegar. Mmm, mmm, good!<BR />\r\n<SPAN CLASS='indented'>The</SPAN> noxious malt vinegar fumes, on several occasions, came close to overpowering attendees. AJ himself nearly hucked up a litter of hush puppies thanks to the power of said fumes. Twenty-eight (28) in: \"This is <__>ing disgusting\" -- the remaining two (2) hush puppies held a glimmer of hope for a stay of execution. AJ quickly crushed that hope by squeezing the life out of the last couple of hapless pups, wringing some puddles of grease out of them in the process. It was the end of the line for the pair of them. AJ, sure to appease the commission, ate the grease puddles, too. Totals: thirty (30) hush puppies, three (3) kid-sized drinks, and about one-half cup of various condiments in thirty-two (32) minutes.<BR />\r\n<SPAN CLASS='indented'>But</SPAN>, wait, there is more! For the finale, AJ dumped the remaining contents of the malt vinegar dispenser into another kid-size drink cup (estimated vinegar volume of eight (8) ounces) and took it outside. It was time to enjoy a fine malt beverage in the afternoon sun of a brisk December day: AJ guzzled down the strong brew, including the unidentified pebbles that had settled on the bottom. One-and-one-half (1.5) pounds of hush puppies and a half pint of aged Long John Silver's malt vinegar -- what a treat!\r\n<DIV CLASS='txtC'><IMG ALT='hush puppies' TITLE='hush puppies' SRC='imgs/icons/hpuppies_icon.gif' /></DIV>"
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/hushpuppies-AJ-200912"
+  bImgPathIsURL: 1
+  ImgPathAltText: "Hush Puppy Pix"
+-
+  ID: 1
+  RecordCategory: 1
+  RecordNumber: 1027
+  RecordDate: "2003-12-24"
+  ChallengerID: 26
+  RecordSummary: ""
+  RecordDetails: "Consumed 3868 calories and 197.5 grams of fat while completing a Donato's pizza challenge.  He appeared to still be alive."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 8
+  RecordCategory: 1
+  RecordNumber: 1006
+  RecordDate: "2002-09-19"
+  ChallengerID: 39
+  RecordSummary: ""
+  RecordDetails: "Ate one (1) 32-ounce prime rib in fabulous Las Vegas.  Washed down this hunk of meat with some Bud Light."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 22
+  RecordCategory: 1
+  RecordNumber: 1013
+  RecordDate: "2003-10-23"
+  ChallengerID: 25
+  RecordSummary: ""
+  RecordDetails: "Consumed 3380 calories and 143 grams of fat while completing a White Castle challenge.  Hello, 9-1-1?"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 38
+  RecordCategory: 1
+  RecordNumber: 1016
+  RecordDate: "2003-12-04"
+  ChallengerID: 27
+  RecordSummary: ""
+  RecordDetails: "Brandon ate ten (10) egg rolls from King Chef in 55 minutes. He doused the rolls with mustard- and/or duck sauce."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Brandon was attempting to eat a dozen (12) King Chef egg rolls. He blamed the rolls' texture for his failure. He also claimed that the amount of deep fried cabbage that he consumed would make him into a salad shooter the next day."
+  bImgPathIsURL: 0
+-
+  ID: 39
+  RecordCategory: 1
+  RecordNumber: 1007
+  RecordDate: "2003-10-07"
+  ChallengerID: 29
+  RecordSummary: ""
+  RecordDetails: "Consumed the contents of 20 packets of taco sauce from Taco Bell.  Enjoyed 7 Hot packets, 8 Fire packets, and 5 Green Sauce packets.  For extra flare, Edward waited 5 minutes after eating sauces to consume any liquids."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 40
+  RecordCategory: 1
+  RecordNumber: 1001
+  RecordDate: "2003-06-06"
+  ChallengerID: 27
+  RecordSummary: ""
+  RecordDetails: "Ate 11 White Castle hamburgers"
+  IsTie: 1
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 47
+  RecordCategory: 1
+  RecordNumber: 1001
+  RecordDate: "2003-06-06"
+  ChallengerID: 25
+  RecordSummary: ""
+  RecordDetails: "Ate 11 White Castle hamburgers"
+  IsTie: 1
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 54
+  RecordCategory: 1
+  RecordNumber: 1021
+  RecordDate: "2004-01-05"
+  ChallengerID: 30
+  RecordSummary: "One-half gallon of milk in 21 minutes"
+  RecordDetails: "Misty slurped down one half gallon of 2% milk in 21 minutes. She did so with only the aid of two straws and a wildly supportive crowd. Her skin color approached milk white, and she seemed somewhat chilled. She was able to keep the healthy treat down, though she went to the brink (at one point she was hovering above a receptacle, hair pulled back and ready)."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 37
+  RecordCategory: 1
+  RecordNumber: 1027
+  RecordDate: "2004-03-24"
+  ChallengerID: 34
+  RecordSummary: "216 grams of fat"
+  RecordDetails: "Michael consumed 13.92 ounces of sunflower seed kernels.  These kernels contained 216g of fat.  That is 7.6 ounces of fat; almost 1/2 pound!  At the end of the challenge, lookers-on took a step back to provide the necessary splash-zone as Michael approached the trash can. Apparently, his stomach was a bit unsettled."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Michael was attempting to eat 25 ounces of sunflower seed kernels.  He started the challenge at a throat blistering pace of one jar (7.25 oz) per 11 minutes. The pace for the next jar slowed to about one jar per 50 minutes.  This may have been a factor in the failed attempt."
+  bImgPathIsURL: 0
+-
+  ID: 55
+  RecordCategory: 1
+  RecordNumber: 1027
+  RecordDate: "2005-01-26"
+  ChallengerID: 29
+  RecordSummary: "Consumed 253 grams of fat"
+  RecordDetails: "Edward consumed 16.5 ounces of Seasonuts Hot peanuts.  These peanuts contained 253g of fat. That is 8.9 ounces of fat; over 1/2 pound! Edward suffered some discomforts during the 38 minute 15 second challenge: a massive headache that started within about 3 minutes of chewing; mild, medium, and strong nausea; weakness/dizziness. He noted that the peanuts were \"movin' on through quickly\". He passed some \"peanut mash\" within about 35 minutes of finishing the challenge -- quickly, indeed."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 2
+  RecordCategory: 1
+  RecordNumber: 1013
+  RecordDate: "2003-12-24"
+  ChallengerID: 26
+  RecordSummary: "3868 calories"
+  RecordDetails: "Consumed 3868 calories and 197.5 grams of fat while completing a Donato's pizza challenge.  He appeared to still be alive."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 87
+  RecordCategory: 1
+  RecordNumber: 1046
+  RecordDate: "2005-11-03"
+  ChallengerID: 16
+  RecordSummary: "Ate 3 hard tacos, 3 soft tacos, 4 bean burritos from Taco Bell"
+  RecordDetails: "Chad ate three (3) hard tacos, three (3) soft tacos, and four (4) bean burritos (of the Taco Bell variety) in twenty-four (24) minutes. On a return visit to the very site from which \"crunchy sour cream\" originated (in a 'Chicken Soft Taco' challenge), Chad spied an enticing little menu item: the Grande Meal. He decided to order it as pictured. Bold move. At the risk of dooming the challenge, Chad declared it to be a \"piece of cake\". Bold statement. The crowd scarcely knew that Chad was even performing a challenge as he gracefully scarfed down item after item. Without so much as a whimper or a sigh, he finished the last tasty bite in under 25 minutes. Chad, like the actors in the commercial, exclaimed, \"I'm full!\". Bold performance.<BR />Fun Facts: 2620 cal, 100g fat, 7710mg salt. Fun indeed."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 93
+  RecordCategory: 1
+  RecordNumber: 1046
+  RecordDate: "2006-04-05"
+  ChallengerID: 20
+  RecordSummary: "Ate eighteen (18) tacos (3.4 lbs.) from Taco Bell"
+  RecordDetails: "AJ, a seasoned Taco Bell veteran, chomped his way through eighteen (18) beef tacos -- ten (10) crunchy and eight (8) soft. This heavenly treat totaled 1,572g (3.4 lbs.) of terrific taco tastiness.<BR />\r\n<SPAN CLASS='indented'>A</SPAN> newbie, however, to this challenge arena, AJ eagerly started out the morning visibly full of confidence. He tore through ten (10) tacos is just over ten (10) minutes. The blistering pace soon slowed, though, and his iron gut began to fight back. It took another thirty-five (35) minutes to eat the final eight (8) tacos. This span of time included several stretching sessions, and a couple of walk-abouts during which AJ tried to coax his belly into settling down a bit. Some spectators feared (or hoped) that AJ would empty his tummy-tum, possibly in a vulgar display of power, but alas, no hurling was observed. A young (uncredited) photographer captured some images of the challenge, which are available in the <A TITLE='Records Image Gallery' HREF='http://ddayinc.com/gallery/records'>Records Gallery</A>."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "AJ intended to destroy two (2) Grande meals for a total of twenty (20) tacos. Are you loco, S.A? Don't you know what you are trying to get crazy with?"
+  bImgPathIsURL: 0
+-
+  ID: 13
+  RecordCategory: 1
+  RecordNumber: 1001
+  RecordDate: "2003-10-23"
+  ChallengerID: 25
+  RecordSummary: "Fifteen (15) White Castles, eight (8) cheese sticks, 48 oz Coke"
+  RecordDetails: "Ate fifteen (15) White Castles, one (1) eight-pack of mozzarella sticks, and 48 ounces of Coca-Cola. Challenge went right down to the wire: Brian had only 15 seconds to spare!  Brian notice a tingling sensation in his arms about one (1) hour later."
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 88
+  RecordCategory: 1
+  RecordNumber: 1049
+  RecordDate: "2006-01-18"
+  ChallengerID: 40
+  RecordSummary: "Ate eight (8) McDonald's Double Chese burgers in thirty (30) min"
+  RecordDetails: "Josh chomped down eight (8) delicious McDonald's double cheese burgers.	A few spectators in the break-down room witnessed the awesome feat, which took only thirty (30) minutes. Each scrumptious, 6.1 ounce double cheese burger, hereafter referred to as a \"dcb\", contained a respectable 460 calories! To wash down the tasty dcb's, Josh chose to cleanse his palate with some refreshing Coca-Cola&reg; Classic. This came in the form of a 32 ounce drink. Yummy!\r\n<BR /><SPAN CLASS='indented'>The</SPAN> total calculated mass of the dcb's was 48.8 ounces; 3 pounds and 1/2 ounce. However, when the master of ceremonies weighed the delectible snack before Josh began the gorging, it only tipped the scales at three (3) pounds. Is Ronald cutting some corners?<BR />\r\n<SPAN CLASS='indented'>The</SPAN> only notable quote that was salvaged from the event was from Josh: \"I'm fucking miserable.\"<BR />\r\n<SPAN CLASS=\"smFootnote\">* record info courtesy of BMo. Thanks, BMo!</SPAN></SPAN>"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Josh was going for ten (10) delicious dcb's. Darnn it all... just two (2) dollars worth more..."
+  bImgPathIsURL: 0
+-
+  ID: 73
+  RecordCategory: 1
+  RecordNumber: 1013
+  RecordDate: "2006-01-18"
+  ChallengerID: 40
+  RecordSummary: "Four-thousand (4000) calories"
+  RecordDetails: "Josh chomped down eight (8) double cheese burgers from McDonald's.  Each tasty burger contained four-hundred and sixty (460) calories. He also slurped down thirty-two (32) ounces of Coca-Cola&reg; Classic, which contained three-hundred and ten (310) calories. By taking a couple of more slurps of a Coke&reg;, Josh was able to reach the four-thousand calorie plateau. His meal totaled exactly four-thousand (4000) calories. This guy likes to get his RDA of calories so much, he did it twice this fine day. Fine job, Josh. Oink.<BR />\r\n<SPAN CLASS=\"smFootnote\">* record info courtesy of BMo. Thanks, BMo!</SPAN>"
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 74
+  RecordCategory: 1
+  RecordNumber: 1002
+  RecordDate: "2003-09-05"
+  ChallengerID: 0
+  RecordSummary: "24 gems in 24 minutes"
+  RecordDetails: "Ate 24 Dolly Madison Donut Gems in 24 minutes.  (18 chocolate and 6 powdered).  Also drank one (1) 20oz Diet Mt. Dew"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 89
+  RecordCategory: 1
+  RecordNumber: 1041
+  RecordDate: "2005-09-09"
+  ChallengerID: 39
+  RecordSummary: "Ate one small Party Platter of chicken nuggets from Chick-fil-A"
+  RecordDetails: "John tore his way through one (1) small Party Platter's worth of chicken nuggets from Chick-fil-A.  Sixty-four (64) nuggets! After a shaky start (he uttered, \"This isn't happening\" after just one nugget), John found his groove. He was soon punishing that platter, popping in the pleasing nuggets in rapid-fire succession. In most cases John did not even bother applying any barbeque sauce to the hapless nuggets (note: barbeque is John's favorite sauce of all). Several Chick-fil-A patrons (and even a few employees) showed interest in the challenge; some encouraged, while others talked smack.<BR />\r\nAt what seemed to be the mid-point of the challenge, an event official counted the remaining nuggets to give John an idea of his progress. After the count (and a conference with the store manager), officials found that the employees gave John a medium Party Platter (120 nuggets), not a small (64 nuggets).  John ate the last couple of nuggets needed to attain 64, and rejoiced. The manager was moved to present John with a token of respect: a large-sized Chick-fil-A \"Eat mor Chikin\" plush cow toy. Upon completion of the challenge, John had taken in 8720mg of sodium (approx. 4 times the maximum recommended daily allowance). Salt-terrific!"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "imgs/jwarmoth-cow.jpg"
+  bImgPathIsURL: 0
+-
+  ID: 90
+  RecordCategory: 1
+  RecordNumber: 1043
+  RecordDate: "2005-09-14"
+  ChallengerID: 0
+  RecordSummary: "Ate 2.70 quarter-pound hotdogs with buns in 30 min"
+  RecordDetails: "Matt choked down 2.70 quarter-pound* hot dogs with buns from the Sam's Club snack bar. Attention all hotdog flavor lovers: Sam's Club really packs the hotdog flavoring into their quarter-pound Snack Bar hot dogs. Matt tried drowning out that overpowering taste with ketchup, relish, and freshly-cut onions. Apparently, you cannot cover up their potent hotdog taste by conventional means; it is too hotdog-y. After almost straining his swallow-muscles on the extra-dry hotdog buns, Matt called it quits after 0.675 pounds* of the hooves, cured-and-smoked skeletal muscle, and up to 3.5% non-meat binders and extenders that Sam whips up into their scrumptious batches of hot dogs.<BR /><SPAN CLASS='smFootnote'>* - pre-cooked weight; &nbsp; ingredient info from the <A HREF='http://www.fsis.usda.gov/Fact_Sheets/Hot_Dogs/index.asp'>USDA FSIS</A>.</SPAN>"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Matt was trying to down six (6) quarter-pound hot dogs with buns. The high-quality (and concentration) of hot dog flavoring ended up biting him, stopping him well short of the goal. If he decides to try again, Matt plans to employ the \"walking the dog\"-, the \"in the dog-house\"-, and the \"dog in a bathtub\" techniques to conquer the man's-best-friend of snack bar foods, hot dogs."
+  ImgPath: "imgs/mboren-hotdog-beanie.gif,imgs/mboren-hotdog-bun.jpg,imgs/mboren-hotdogman.jpg,imgs/mboren-withTrophy.gif"
+  bImgPathIsURL: 0
+-
+  ID: 9
+  RecordCategory: 1
+  RecordNumber: 1048
+  RecordDate: "2005-11-19"
+  ChallengerID: 37
+  RecordSummary: "Drank 0.594 US gal. (2250 mL) of \"Full Cream - NADA fresh\" milk"
+  RecordDetails: "<DIV CLASS=\"smFootnote\">Context: This submission comes from a company of Apache Longbow helicopter personnel currently stationed in Iraq. D-Day kept the almost all of the original verbage intact to accurately preserve the events of this fateful day </DIV><SPAN CLASS='indented'>We</SPAN> got into a discussion last week [13 Nov 2005] about a person not being able to drink and keep down a gallon of milk. One of our W-1s* (Dave Harper) said he KNEW he could drink and keep down a gallon of milk in/for one hour. Milk at the mess hall only comes in 250ml containers, so we figured 15 would be about a gallon [quick math: 0.991 gal.]. Dave chose \"Full Cream - NADA Fresh\" milk over skim; bold move. We are not sure if it is milk from a cow, a goat, or a camel. [Nutritional info omitted for space]. We received quite a few looks from the other patrons for the 15 bottles on one tray. Dave started strong at 0752. At 20 minutes into the challenge, he had downed 6 milks. \"That's a lot of fucking milk!\" was his first real hint at cracking. One of the more astute W-1s* went and got a 45 gallon trash bag; good move.<BR /><SPAN CLASS='indented'>A</SPAN> little later Dave [declared], \"I'm scared to burp.\" He finished number 7 by 25 minutes, and his eyes started to glaze over. At the halfway point, he [warned] \"you may want to keep that bag open\" and \"don't make me laugh!\". [Dave] finally choked down number 8 by 37 minutes, but he was hurting. At 40 minutes he had his head down on the table. \"I'm pacing myself\" he stated. At the 45 minute mark he had finished #9, all the time plotting how he would down the last 3 or 4 in the last couple of minutes. But the mess hall was closing, so we all grabbed the milks and started to depart. As we were discussing giving him a few extra minutes to offset the walking time, we looked for Dave. He had ducked into the emergency exit to expunge his milk breakfast. [The result] was a very heavy trash bag, and he almost got some sympathy pukers as we each weighed the bag. [Dave chug-a-lugged 0.594 gal. of milk].<BR /><SPAN CLASS='indented'>Young</SPAN> David now knows that it is not possible to drink a gallon of milk. He has also learned to listen more closely to his senior Warrant Officers. And a couple of us are $20 richer, thanks to young Dave. Hopefully pictures are to follow when we move North and get a better setup.<BR /><SPAN CLASS=\"smFootnote\">* W-1: US Army rank of Warrant Officer 1</SPAN><BR /><SPAN CLASS=\"smFootnote\"> - submitted by Bobo, CW3, brother to D-Day</SPAN>"
+  AdditionalNutrionalFacts: "Each serving consisted of: Fat 3.3gm, Protein 2.85gm, Calcium 110mg, and Calories 59, and each bottle is 2.5 servings."
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "As noted above, Dave was trying for one (1) gallon of milk. Close, Elsie."
+  bImgPathIsURL: 0
+-
+  ID: 48
+  RecordCategory: 1
+  RecordNumber: 1019
+  RecordDate: "2003-12-31"
+  ChallengerID: 16
+  RecordSummary: "92.6 seconds"
+  RecordDetails: "Chad consumed one (1) cheeseburger Happy Meal from McDonald's. This consisted of the cheeseburger, small fries, and a small drink (water). He was able to down the goodies in 92.6 seconds. In the process, he dethroned Brando as the fastest eater. Lookers-on commented on the seemingly uncontrollable trembling of Chad's hands. Part of his strategy?"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Chad was attempting to complete this challenge in under 75 seconds. Maybe next time."
+  bImgPathIsURL: 0
+-
+  ID: 83
+  RecordCategory: 1
+  RecordNumber: 1047
+  RecordDate: "2009-01-17"
+  ChallengerID: 1
+  RecordSummary: "Ate thirty (30) chicken wings in fifty-five (55) minutes"
+  RecordDetails: "Matt, in his first entry in the food challenge arena, set out to enjoy a hearty helping of chicken wings from BW3's. The first order was eighteen (18) wings:  nine (9) Caribbean Jerk, nine (9) Sweet Barbeque. As with many challenges, the initial pace was strong. Matt, using his patented technique of splitting the wings with one smooth thumb stroke, was downing wings like it was his job. And, what goes with chicken? Well, according to Ludacris, \"beer\" -- so Matt had a tall twenty-two (22) ounce beer to add to the enjoyment.<BR />\r\n<SPAN CLASS=\"indented\">This</SPAN> first eighteen (18) -- child's play. As witnessed by one of the pictures in the <A TITLE=\"Chicken Wings pix -- yum!\" HREF=\"http://ddayinc.com/gallery/records/chickenwings200901\">Chicken Wing gallery</A>, though, Matt was a little surprised by the girth of the some of the wings in the second eighteen (18), all of which were all Caribbean Jerk.. Without regard for his well-being, he pushed on with the task. It was not until the twenty-eighth (28th) wing that Matt even had to set a wing down to pause and reflect. Then, as the timer neared the end, the pace drew to a halt at thirty (30) wings. While we may never know, some spectators believed that the fish sandwich from Burger King a few hours before the event may have still been swimming about in Matt's belly, taking up precious cargo room. Not bad for his first event, though.<BR />\r\n<SPAN CLASS=\"indented\">Some</SPAN> notable quotes:\r\n<UL>\r\n<LI>\"I haven't eaten for a straight hour, well, ever!\"</LI>\r\n<LI>\"Another one and I'll fuggin' blow!\"</LI>\r\n<LI>\"After a while, chicken starts to taste like shit.\" So, apparently, the ol' \"tastes like chicken\" rule is flexible.</LI>\r\n</UL>\r\n<SPAN CLASS=\"indented\">Another</SPAN> tidbit: word of Matt's challenge seemed to have made it around the employees a bit. There was a hefty waitress, waiting in the wings, eyeing Matt, admiring his skills, and licking her chops. But, that is a challenge for another day (and a different challenger, probably).\r\n"
+  IsTie: 1
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 1
+  bFailedToBeatExisting: 0
+  FailureDetails: "Matt was attempting to devour three (3) dozen wings, falling just short. Well, at least he kept down the tasty treat -- Caribbean Jerk out through the nose would stick with you for a while...\r\n<DIV CLASS=\"txtC\"><IMG ALT=\"Tastes like chicken!\" TITLE=\"Tastes like chicken!\" SRC=\"imgs/icons/wingicon.gif\"></DIV>\r\n"
+  ImgPath: "ddayinc.com/gallery/records/chickenwings200901"
+  bImgPathIsURL: 1
+  ImgPathAltText: "Chicken Wings pix -- yum!"
+-
+  ID: 71
+  RecordCategory: 1
+  RecordNumber: 1047
+  RecordDate: "2005-11-15"
+  ChallengerID: 25
+  RecordSummary: "Ate thirty (30) chicken wings in forty (40) minutes"
+  RecordDetails: "Brian swiffed down thirty (30) chicken wings at the SallieMae I.T. Shindig, chomping them down like there was no tomorrow. Making trip after trip after trip to the buffet table, Brian was especially bloated in the belly region (he also downed 2 mini BBQ sandwiches and 2 choco-chip cookies in the process). Congrats Brian! You da man!!!<BR /><SPAN CLASS=\"smFootnote\">* (co-written by BMo; approved by BMo for use on public domain)</SPAN>"
+  IsTie: 1
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 92
+  RecordCategory: 1
+  RecordNumber: 1043
+  RecordDate: "2007-04-10"
+  ChallengerID: 7
+  RecordSummary: "Ate five (5) quarter-pound hotdog-type sandwiches in 22 minutes"
+  RecordDetails: "To start out, Ryan stepped up and ordered up four (4) wiener dogs, enough Quarter Pound Kosher Dogs (QPKDs) to run the Sam's Club Snack Bar out of stock for the day. Unfortunately for the readers, these four QPKDs were gone before details with any real meat could be recorded. Ryan scarfed down the snouts, ears, and blended organs that comprised the tasty dogs faster than one could say, \"mechanically separated meat\" (a common wiener dog ingredient). He had impounded that pound of dogs in around twelve (12) minutes.<BR />\r\n<SPAN CLASS='indented'>Still</SPAN> craving questionable, machine-formed meat-stuffs, Ryan returned to the Snack Bar counter to get one (1) Quarter Pound Polish Sausage (QPPS). After man-handling that meat, Ryan felt that challengees should make it a point to thoroughly enjoy their feasts. So, he treated himself to a raspberry-vanilla ice-cream-on-a-stick treat. That is five (5) quarter-pound hotdog-type sandwiches and dessert in twenty-two (22) minutes. Obligatory exclamation: Hot diggity-dog!<BR />\r\n<SPAN CLASS='indented'>After</SPAN> those twenty-two (22) total minutes of food abuse, Ryan came to rest. While no spectators were injured, with Ryan's skills at the lunch table, they should put a safety sign on this guy: \"Keep hands clear while Ryan is destroying food items\". Additionally, after the dogs that the spectators enjoyed began running about the spectators' innards, there should be a safety sign warning of the noxious fumes being emitted (Birk).<DIV CLASS='txtC'><IMG ALT='Caution! Watch Uranus after QPKD Battles!' TITLE='Caution! Watch Uranus after QPKD Battles!' SRC='imgs/icons/rbarker-warning.gif' /></DIV>"
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/qpkd20070410"
+  bImgPathIsURL: 1
+  ImgPathAltText: "Wiener Dogs!"
+-
+  ID: 63
+  RecordCategory: 1
+  RecordNumber: 1040
+  RecordDate: "2005-08-18"
+  ChallengerID: 21
+  RecordSummary: "Consumed 24 hush puppies from Long John Silver's"
+  RecordDetails: "Kyle munched down twenty-four (24) of the deep-fried bread nuggets called \"hush puppies\" from the Long John Silver's seafood eatery. In a strong start, Kyle had about one-half of the challenge completed in an astounding five (5) minutes.  Soon, though, he hit the ever-present food challenge wall. Looking down at the remaining unimposing puppies, Kyle sat befuddled, one hand resting over the side of his face. He pondered how the small little side-dish treats could be threatening to turn this, his maiden challenge, into a failed attempt. With about six (6) hush puppies to go he exclaimed that he \"did not know that a hush puppy could be so heavy\"; a perplexed look washed over his face and his eyebrows wove into a frown. Then, the proverbial second wind came to Kyle and he attacked the defenseless pups with renewed vigor, drowning a few of them in ice water before sending them to their demise. Success! After thirty-three minutes, Kyle victoriously threw back the last bite of the two dozen hush puppies in fine fashion. That's twenty-four (24) free hush puppies the easy way. Only mild concern about regurgitating the quiet treats arose, though people entertained thoughts of power-chucking the meal at random targets on the ride back from the restaurant.<DIV CLASS='txtC'><IMG ALT='hush puppies' TITLE='hush puppies' SRC='imgs/icons/hpuppies_icon.gif' /></DIV>"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+-
+  ID: 91
+  RecordCategory: 1
+  RecordNumber: 1047
+  RecordDate: "2009-08-03"
+  ChallengerID: 20
+  RecordSummary: "Ate thirty-six (36) chicken wings in thirty-two (32) minutes"
+  RecordDetails: "In this spontaneous challenge, AJ decided that he was hungry for thirty-six (36) wings from BW3's -- as he sat an looked at the menu. Spur of the moment! He started out the order with eighteen (18) medium and twelve (12) spicy garlic wings.  Not much of a reaction from the waitress -- she was not impressed. This chicken hawk tore through the wings like it was his job, barely stopping to sip his tasty beer.  By the fifteen minute mark he had already pecked away at twenty-one (21) of the first order. A judge, with weather eye open, only occasionally had to point out the stray hunk of gristle that might have tried to escape AJ's wing trap.<BR />\r\n<SPAN CLASS=\"indented\">T</SPAN>ime to order some more! \"Sorry, b-hole\", AJ surely thought, as he opted for the Hot flavor this time.<BR />\r\n<SPAN CLASS=\"indented\">N</SPAN>ext stop, thirty-four (34) wings:  \"that's the wall\". AJ seemed to think that he was done. Wrong! He was told that he needed just two (2) more to make it to his stated goal of three-dozen, and promptly grabbed another delicious wing.<BR />\r\n<SPAN CLASS=\"indented\">A</SPAN>nd finally, \"ahh\". That was the one he was looking for -- the last one.  Thirty-six (36) in thirty-two (32) minutes! Next stop:  KFC for dessert.\r\n\r\n\r\n<DIV CLASS=\"txtC\"><IMG ALT=\"Tastes like chicken!\" TITLE=\"Tastes like chicken!\" SRC=\"imgs/icons/wingicon.gif\"></DIV>\r\n"
+  IsTie: 0
+  HasPreviousValue: 1
+  IsPreviousValue: 1
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  ImgPath: "ddayinc.com/gallery/records/chickenwings-AJ-200908"
+  bImgPathIsURL: 1
+  ImgPathAltText: "AJ killin' some wangs!"
+-
+  ID: 94
+  RecordCategory: 1
+  RecordNumber: 1058
+  RecordDate: "2017-03-23"
+  ChallengerID: 42
+  RecordSummary: "Ate four (4) pieces in ten (10) minutes"
+  RecordDetails: "Cam, in his first sanctioned food challenge on American soil, aimed to set the bar on deep-dish, Chicago-style pizza. Cuddly like a koala, but dangerous as a <a href=\"imgs/dropbear.jpg\" target=\"_blank\">drop bear</a>, he came out of the gate with three (3) pieces, tearing through the first two within the first four (4) minutes of the event -- go, Cram, go! After torching the third piece, it was back to the buffet for another piece and, much to the crowd's surprise (and delight), a plenteous pile of pasta! Bonzer!<br />\r\n\r\n<SPAN CLASS=\"indented\">W</SPAN>ithout hesitation Cam dove back in for that bar-setting slice. Brilliant! A bit slower rate of consumption on this historic piece, but he plodded on. Three, two, one bite left, done. Ripper! Ten (10) short minutes and the record was his! His reward to himself? Pasta! Cam crammed in the penne pasta with pride. Success -- tastes so good.<br />\r\n\r\n<SPAN CLASS=\"indented\">T</SPAN>here was a side story simmering as the main event transpired: a member of the crowd, enjoying his lunch at a leisurely pace, was closing in on the record that Cam had just set. The earbashing began, and eventually grew so powerful that Cam chose to reward himself again -- more pasta! An impromptu heads-up battle nearly ensued, and was narrowly avoided. Forks down.<br />\r\n\r\n<SPAN CLASS=\"indented\">S</SPAN>ome in the crowd noticed that, as the signals from Cam's belly finally began to make their way to Cam's brain, Cam's brain started to push back, if only subtly -- he was chocka. There was a thousand-yard stare, an iffy hiccup, and a jeopardous belch (common predecessors to the chunder from down under), but Cam eventaully forged through. The day was won.<br />\r\n\r\n<SPAN CLASS=\"indented\">W</SPAN>ith nothing left to do but to sit back with his pizza baby and to not brown his daks, proud Cam posed for the <a href=\"imgs/CamVictory2017.jpg\" target=\"_blank\">victory pic</a> -- just him and his little Kamgaroo in the pouch. Congrats, Cam, and cheers for snapping the nearly seven (7) year draught in food challenge events!\r\n\r\n<DIV CLASS=\"txtC\"><IMG ALT=\"Camoala the drop bear!\" TITLE=\"Camoala the drop bear!\" SRC=\"imgs/camkoala.png\"></DIV>\r\n"
+  IsTie: 0
+  HasPreviousValue: 0
+  IsPreviousValue: 0
+  bDidNotAchieveGoal: 0
+  bFailedToBeatExisting: 0
+  bImgPathIsURL: 0
+RecordNames:
+-
+  RecordNumber: 1001
+  RecordName: "Most White Castle food in one sitting"
+-
+  RecordNumber: 1002
+  RecordName: "Most Donettes in one sitting"
+-
+  RecordNumber: 1003
+  RecordName: "Hottest Straw Hat"
+-
+  RecordNumber: 1004
+  RecordName: "Most Happy Meals in 1 hour"
+-
+  RecordNumber: 1005
+  RecordName: "Most Slammers from Hardee's"
+-
+  RecordNumber: 1006
+  RecordName: "Most meat eaten"
+-
+  RecordNumber: 1007
+  RecordName: "Most packets of Taco Bell taco sauce"
+-
+  RecordNumber: 1008
+  RecordName: "Most grapes eaten"
+-
+  RecordNumber: 1009
+  RecordName: "Most sticks of gum chewed at once"
+-
+  RecordNumber: 1010
+  RecordName: "Most whipped cream eaten from a can"
+-
+  RecordNumber: 1011
+  RecordName: "Most shrimp eaten"
+-
+  RecordNumber: 1012
+  RecordName: "Most pudding eaten"
+-
+  RecordNumber: 1013
+  RecordName: "Highest caloric intake in one sitting"
+-
+  RecordNumber: 1014
+  RecordName: "Most SweetTarts eaten"
+-
+  RecordNumber: 1015
+  RecordName: "Most fried Okra eaten"
+-
+  RecordNumber: 1016
+  RecordName: "Most egg rolls eaten"
+-
+  RecordNumber: 1017
+  RecordName: "Most Tootsie Pop suckers eaten"
+-
+  RecordNumber: 1018
+  RecordName: "Most pizza, breadsticks, and wings eaten"
+-
+  RecordNumber: 1019
+  RecordName: "Fastest Happy Meal consumption"
+-
+  RecordNumber: 1020
+  RecordName: "Most iced sugar cookies eaten"
+-
+  RecordNumber: 1021
+  RecordName: "Fastest 1/2 gallon milk consumption"
+-
+  RecordNumber: 1022
+  RecordName: "Most Tic Tacs consumed"
+-
+  RecordNumber: 1023
+  RecordName: "Most Taco Bell chicken soft tacos eaten"
+-
+  RecordNumber: 1024
+  RecordName: "Most heads of lettuce eaten"
+-
+  RecordNumber: 1025
+  RecordName: "Most gummy bears eaten"
+-
+  RecordNumber: 1026
+  RecordName: "Most pepperoncinis eaten"
+-
+  RecordNumber: 1027
+  RecordName: "Highest fat intake in one sitting"
+-
+  RecordNumber: 1028
+  RecordName: "Most fortune cookies eaten"
+-
+  RecordNumber: 1029
+  RecordName: "Most strawberries eaten"
+-
+  RecordNumber: 1030
+  RecordName: "Most Bloomin' Onion eaten"
+-
+  RecordNumber: 1031
+  RecordName: "Most chocolate malt consumed"
+-
+  RecordNumber: 1032
+  RecordName: "Most sushi and dumplings eaten"
+-
+  RecordNumber: 1033
+  RecordName: "Most jalepa&#241;os eaten"
+-
+  RecordNumber: 1034
+  RecordName: "Most barbeque sauce consumed"
+-
+  RecordNumber: 1035
+  RecordName: "Most chicken legs eaten"
+-
+  RecordNumber: 1036
+  RecordName: "Most bowls eaten at Mongolian Barbecue"
+-
+  RecordNumber: 1037
+  RecordName: "Most coleslaw eaten"
+-
+  RecordNumber: 1038
+  RecordName: "Most popcorn eaten"
+-
+  RecordNumber: 1039
+  RecordName: "Most applesauce consumed"
+-
+  RecordNumber: 1040
+  RecordName: "Most hush puppies consumed"
+-
+  RecordNumber: 1041
+  RecordName: "Most chicken nuggets consumed"
+-
+  RecordNumber: 1042
+  RecordName: "Most cheese eaten"
+-
+  RecordNumber: 1043
+  RecordName: "Most quarter-pound hotdogs w/ buns eaten"
+-
+  RecordNumber: 1044
+  RecordName: "Most Jello eaten"
+-
+  RecordNumber: 1045
+  RecordName: "Most yogurt eaten"
+-
+  RecordNumber: 1046
+  RecordName: "Most Taco Bell food eaten (total)"
+-
+  RecordNumber: 1047
+  RecordName: "Most chicken wings eaten"
+-
+  RecordNumber: 1048
+  RecordName: "Most milk consumed"
+-
+  RecordNumber: 2001
+  RecordName: "Most data in 'Temporary Internet Files' directory"
+-
+  RecordNumber: 2002
+  RecordName: "Most fragmented hard drive on a computer"
+-
+  RecordNumber: 2003
+  RecordName: "Largest temporary file on a computer"
+-
+  RecordNumber: 2004
+  RecordName: "Most files infected by a virus"
+-
+  RecordNumber: 2005
+  RecordName: "Longest uptime for a computer"
+-
+  RecordNumber: 1049
+  RecordName: "Most McDonald's Double Cheese Burgers eaten"
+-
+  RecordNumber: 1050
+  RecordName: "Most Taco Bell food -- speed round (1/2 hour)"
+-
+  RecordNumber: 1051
+  RecordName: "Most breadsticks eaten"
+-
+  RecordNumber: 1052
+  RecordName: "Most  Burger King Quad-Stackers"
+-
+  RecordNumber: 1053
+  RecordName: "Most Big Ass Burgers"
+-
+  RecordNumber: 1054
+  RecordName: "Most Big Ass Burgers -- Hottie Edition"
+-
+  RecordNumber: 1055
+  RecordName: "Most Potstickers"
+-
+  RecordNumber: 1056
+  RecordName: "Most Oreo Double Stuf"
+-
+  RecordNumber: 1057
+  RecordName: "Most Kolache balls eaten"
+-
+  RecordNumber: 1058
+  RecordName: "Most S.o.C. deep dish pizza"
+...

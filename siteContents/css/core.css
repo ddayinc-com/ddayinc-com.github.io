@@ -1,0 +1,278 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Noto Sans&display=swap");
+@keyframes shake {
+  0% {
+    transform: skewX(-10deg);
+  }
+  5% {
+    transform: skewX(10deg);
+  }
+  10% {
+    transform: skewX(-10deg);
+  }
+  15% {
+    transform: skewX(10deg);
+  }
+  20% {
+    transform: skewX(0deg);
+  }
+  100% {
+    transform: skewX(0deg);
+  }
+}
+body {
+  background-color: #F7F7F7;
+  font-family: "Noto Sans";
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+nav#mainNavbar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+ul.navbar {
+  background-color: #333;
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  border-bottom: 0.325em solid #F7F7F7;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 2px 4px;
+}
+ul.navbar, ul.navbar ul {
+  margin: 0px;
+  padding: 0px;
+}
+ul.navbar li {
+  list-style: none;
+  padding: 0.5em 0.25em;
+}
+ul.navbar button {
+  all: unset;
+}
+ul.navbar > li:first-child a::before {
+  content: "\f794";
+  font-family: "FontAwesome";
+  color: lightsteelblue;
+  padding: 0px 6px;
+}
+ul.navbar > li:first-child:hover a::before {
+  color: firebrick;
+  display: inline-block;
+  animation-name: shake;
+  animation-delay: 0.3s;
+  animation-duration: 0.8s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+ul.navbar > li:nth-child(2) {
+  margin-left: auto;
+}
+ul.navbar > li {
+  height: 100%;
+  position: relative;
+  transition: 0.5s;
+}
+ul.navbar > li:hover, ul.navbar > li:focus-within {
+  background-color: #8AA899;
+  transition: 0.1s;
+}
+ul.navbar > li:hover span.dropdownHeader:after, ul.navbar > li:focus-within span.dropdownHeader:after {
+  transition: 0.7s ease transform;
+  transform: rotate(2.25turn);
+}
+ul.navbar > li a {
+  text-decoration: none;
+}
+ul.navbar > li > a, ul.navbar > li span.dropdownHeader {
+  color: white;
+  padding: 9px 10px;
+}
+ul.navbar > li span.dropdownHeader {
+  cursor: default;
+  /* after the text in a dropdown header */
+}
+ul.navbar > li span.dropdownHeader:after {
+  content: "\f138";
+  /* content: "➜"; */
+  /* content: "➽"; */
+  display: inline-block;
+  font-family: "FontAwesome";
+  font-size: 90%;
+  padding-left: 6px;
+  padding-right: 6px;
+  /* for transitioning back to this state */
+  transition: 0.3s transform;
+}
+ul.navbar > li ul {
+  display: none;
+  position: absolute;
+  right: 0;
+  margin-top: 0.5em;
+  min-width: 135px;
+  background-color: #f9f9f9;
+  z-index: 1;
+}
+ul.navbar > li ul li {
+  display: inline-flex;
+  /* flex-wrap: nowrap; */
+  padding: 0;
+  font-size: 0.95em;
+  width: 100%;
+}
+ul.navbar > li ul li:hover, ul.navbar > li ul li:focus-within {
+  background-color: #ddd;
+}
+ul.navbar > li ul li:first-child {
+  border-top-left-radius: 6px;
+}
+ul.navbar > li ul li:last-child {
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+ul.navbar > li ul li a {
+  color: #333;
+  width: 100%;
+  padding: 0.5em 0.25em 0.25em 0.75em;
+}
+ul.navbar > li ul li a::before {
+  font-family: "FontAwesome";
+  padding-right: 6px;
+}
+ul.navbar > li:last-child ul {
+  right: 5px;
+}
+ul.navbar > li:hover ul, ul.navbar > li:focus-within ul {
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  display: block;
+  border-top-left-radius: 6px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.4);
+}
+
+a#recordsLink::before {
+  content: "\f2e7";
+}
+a#challengersLink::before {
+  content: "\f5a2";
+  color: goldenrod;
+}
+a#rulesLink::before {
+  content: "\f277";
+  color: green;
+}
+a#utScoresLink::before, a#utFilesLink::before {
+  color: olive;
+  content: "U";
+  font-family: "UnrealTournament";
+  font-size: 110%;
+  padding-left: 6px;
+  vertical-align: text-bottom;
+}
+
+div#challengerSummary_wrapper.dataTables_wrapper {
+  padding-top: 0.25em;
+}
+
+table.dataTable {
+  border-spacing: 1px 0px;
+}
+table.dataTable tbody th, table.dataTable tbody td {
+  padding: 1px;
+}
+
+table#challengerSummary tbody tr td:not(:first-child) {
+  font-family: Consolas, monospace;
+  text-align: center;
+}
+table#challengerSummary tbody tr td:first-child {
+  padding-left: 0.3em;
+}
+table#challengerSummary tbody tr td.maxValueForChallengers {
+  background-color: #ACF0AC;
+}
+table#challengerSummary tbody tr td.maxValueForChallengers::after {
+  content: "🥇";
+  padding-left: 6px;
+  font-size: 0.9em;
+}
+table#challengerSummary th {
+  cursor: pointer;
+}
+
+div#result {
+  max-width: 800px;
+  margin: auto;
+}
+div#result div.recordDetail {
+  padding: 3px;
+  margin-bottom: 5px;
+}
+div#result div.recordDetail:nth-child(odd) {
+  background-color: #DFDFDF;
+}
+div#result div.recordDetail:nth-child(even) {
+  background-color: #F0F0F0;
+}
+div#result div.recordDetail div.recordDetailBody {
+  padding: 4px;
+}
+div#result div.recordDetail div.recordDetailBody div.propertyLabel {
+  clear: none;
+  float: left;
+  font-size: 0.9em;
+  font-weight: bold;
+  margin-right: 10px;
+  margin-top: 1.5px;
+  text-align: right;
+  vertical-align: bottom;
+  width: 60px;
+}
+div#result div.recordDetail div.recordDetailBody div.PreviousRecordLink span {
+  background-color: #CCCCCC;
+  border: 1px dotted #6699CC;
+  color: #666666;
+  font-size: 0.9em;
+  padding: 0px 1px 1px 1px;
+}
+
+.roundieCorners {
+  border-radius: 6px;
+}
+
+div.txtCentered {
+  text-align: center;
+}
+
+div.markdown-body {
+  padding-top: 16px;
+}
+div.markdown-body table tbody tr:nth-child(even) {
+  background-color: #F0F0F0;
+}
+
+div.titleBar {
+  background-color: #CCCCCC;
+  border: 2px solid #999999;
+  font-weight: bold;
+  padding: 0px 2px 2px 0.5em;
+  position: sticky;
+  top: 3em;
+  z-index: 10;
+}
+
+/* v6.2.0 */
+@font-face {
+  font-family: "FontAwesome";
+  src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-solid-900.woff2") format("woff2"), url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-solid-900.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "UnrealTournament";
+  src: url("../fonts/UnrealTournamentSubset.woff2") format("woff2"), url("../fonts/UnrealTournamentSubset.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}/*# sourceMappingURL=core.css.map */

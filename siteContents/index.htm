@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
+    <script src="https://www.jsviews.com/download/jsrender.min.js"></script>
+    <!-- for datatable.net table -->
+    <script src="https://cdn.datatables.net/1.13.5/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+    <script src="https://cdn.datatables.net/fixedheader/3.4.0/js/dataTables.fixedHeader.min.js"></script>
+    <link href='https://cdn.datatables.net/1.13.5/css/jquery.dataTables.min.css' rel='stylesheet'>
+    <link href='https://cdn.datatables.net/fixedheader/3.4.0/css/fixedHeader.dataTables.min.css' rel='stylesheet'>
+    <!-- end for datatable.net table -->
+    <!-- for Showdown Markdown converter -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/2.1.0/showdown.min.js" integrity="sha512-LhccdVNGe2QMEfI3x4DVV3ckMRe36TfydKss6mJpdHjNFiV07dFpS2xzeZedptKZrwxfICJpez09iNioiSZ3hA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/showdown@2/dist/showdown.min.js" integrity="sha256-iOtvu+DCcN3zOEruDJYg0HDgkKJuB8Z0Ia42yQO11kk=" crossorigin="anonymous"></script> -->
+    <!-- end Showdown Markdown converter -->
+    <!-- Primer CSS markdown CSS; JSDelivr supports latest/lastest major/etc in URL -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@primer/css@21/dist/markdown.min.css">
+    <link rel="stylesheet" href="css/core.css">
+    <!-- the code "behind" this ol' page -->
+    <script src="index.js"></script>
+</head>
+<body id="daBody">
+<nav id="mainNavbar" role="navigation">
+    <ul class="navbar">
+        <li><a href="#">D-Day, Inc.</a></li>
+        <li><span class="dropdownHeader" aria-haspopup="true"><button>The Records</button></span>
+            <ul aria-label="submenu">
+                <li><a href="#Records" id="recordsLink">Food Records</a></li>
+                <li><a href="#Challengers" id="challengersLink">Challengers</a></li>
+                <li><a href="#Rules" id="rulesLink">The Rules</a></li>
+            </ul>
+        </li>
+        <li aria-haspopup="true"><span class="dropdownHeader"><button>Retro</button></span>
+            <ul aria-label="submenu">
+                <li><a href="#UTScores" id="utScoresLink">UT Scores</a></li>
+                <li><a href="#UTFiles" id="utFilesLink">UT Files</a></li>
+            </ul>
+        </li>
+    </ul>
+</nav>
+
+<div id="result"></div>
+
+
+
+<!-- record detail template -->
+<script id="recordDetailTmp" type="text/x-jsrender">
+{{for #data}}
+<div class="recordDetail roundieCorners">
+<div class="titleBar roundieCorners"><a title="Show this record only" href="#Records{{*:strAnchorHashQSDelimiter}}number={{:RecordNumber}}">{{:RecordName}}</a></div>
+<div class="recordDetailBody">
+<div class ="propertyLabel">Who:</div><a title="Show challenges for only this challenger" href="#Records{{*:strAnchorHashQSDelimiter}}who={{:ChallengerID}}">{{:ChallengerName}}</a><br/>
+<!-- use helper for date format -->
+<div class ="propertyLabel">When:</div>{{:~formatDateString(RecordDate)}}<br/>
+<div class ="propertyLabel">Details:</div>{{:RecordDetails}}<br/>
+{{if IsTie == 1}}it's a tie!<br />{{/if}}
+{{if ImgPathAltText}}<div class="txtCentered"><img alt="{{:ImgPathAltText}}" title="{{:ImgPathAltText}}" src="{{:ImgPath}}"></div>{{/if}}
+{{if HasPreviousValue == 1}}<div class="PreviousRecordLink"><span class="roundieCorners">-[ show <a title="Show all attempts for this record" href="#Records{{*:strAnchorHashQSDelimiter}}number={{:RecordNumber}}">all attempts for {{:RecordName}}</a> ]-</span></div>{{/if}}
+</div>
+</div>
+{{/for}}
+Challenge info! Displaying {{:#data.length}} item{{if #data.length != 1}}s{{/if}}
+</script>
+
+
+<!-- challenger summary template -->
+<script id="challengerSummaryTable" type="text/x-jsrender">
+<div class="titleBar roundieCorners">Challenger Stats</div>
+<table id="challengerSummary" class="stripe hover order-column" style="width:100%">
+    <thead>
+        <tr>
+            <th>Challenger</th> <th>Total</th> <th>Current</th> <th>Previous</th> <th>DNAG</th> <th>Ties</th> <th>Fails</th>
+        </tr>
+    </thead>
+    <tfoot>
+        <tr>
+            <th>Challenger</th> <th>Total</th> <th>Current</th> <th>Previous</th> <th>DNAG</th> <th>Ties</th> <th>Fails</th>
+        </tr>
+    </tfoot>
+</table>
+</script>
+
+</body>
+</html>

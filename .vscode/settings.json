@@ -1,0 +1,17 @@
+{
+    // for the Live Sass Compiler extension
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            // set the save path for generated CSS ("/" is the root of the workspace not the filesystem)
+            "savePath": "/siteContents/css",
+            // "savePathReplacementPairs": null
+        }
+        // {
+        //     "extensionName": ".min.css",
+        //     "format": "compressed",
+        //     "savePath": "/siteContents/css"
+        // }
+    ]
+}
