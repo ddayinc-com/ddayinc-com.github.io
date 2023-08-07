@@ -242,7 +242,7 @@ div#result div.recordDetail div.recordDetailBody div.PreviousRecordLink span {
   border-radius: 6px;
 }
 
-div.txtCentered {
+div.txtCentered, div.challengeRecordIcon {
   text-align: center;
 }
 
