@@ -33,7 +33,7 @@
         </li>
         <li aria-haspopup="true"><span class="dropdownHeader"><button>Retro</button></span>
             <ul aria-label="submenu">
-                <li><a href="#UTScores" id="utScoresLink">UT Scores</a></li>
+                <li><a href="https://utstats.ddayinc.com" id="utScoresLink" target="_blank">UT Scores</a></li>
                 <li><a href="#UTFiles" id="utFilesLink">UT Files</a></li>
             </ul>
         </li>
@@ -46,6 +46,8 @@
 
 <!-- record detail template -->
 <script id="recordDetailTmp" type="text/x-jsrender">
+<p>Chronicles of the dedicated Food Challengers! See their exciting sagas, marvel at their magnificent feats, puzzle at their perplexing provacations! Displaying {{:#data.length}} item{{if #data.length != 1}}s{{/if}}</p>
+
 {{for #data}}
 <div class="recordDetail roundieCorners">
 <div class="titleBar roundieCorners"><a title="Show this record only" href="#Records{{*:strAnchorHashQSDelimiter}}number={{:RecordNumber}}">{{:RecordName}}</a></div>
