@@ -371,6 +371,9 @@ div#result {
     border-radius: map.get($themeStyle, $themeToUse, "borderRadiusPx");
 }
 
+// "indented" item
+.indented {padding-left: 12px;}
+
 // centered text
 div.txtCentered, div.challengeRecordIcon {text-align: center;}
 
