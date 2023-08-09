@@ -246,6 +246,22 @@ div#result div.recordDetail div.recordDetailBody div.PreviousRecordLink span {
   padding-left: 12px;
 }
 
+span.sadNews {
+  font-size: 90%;
+  font-style: italic;
+}
+span.sadNews::before {
+  content: "\f5b4";
+  font-family: "FontAwesome";
+  font-size: 110%;
+  font-style: normal;
+  padding-right: 5px;
+}
+
+.dCorrection {
+  color: #990000;
+}
+
 div.txtCentered, div.challengeRecordIcon {
   text-align: center;
 }
@@ -270,7 +286,7 @@ div.titleBar {
 /* v6.2.0 */
 @font-face {
   font-family: "FontAwesome";
-  src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-solid-900.woff2") format("woff2"), url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-solid-900.ttf") format("truetype");
+  src: url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2") format("woff2"), url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }

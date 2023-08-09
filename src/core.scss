@@ -374,6 +374,19 @@ div#result {
 // "indented" item
 .indented {padding-left: 12px;}
 
+// blurb of bad news
+span.sadNews {
+    &::before {
+        content: "\f5b4";
+        font: { family: "FontAwesome"; size: 110%; style: normal;}
+        padding-right: 5px;
+    }
+    font: {size: 90%; style: italic;}
+}
+
+// "correction" text
+.dCorrection {color: #990000;}
+
 // centered text
 div.txtCentered, div.challengeRecordIcon {text-align: center;}
 
@@ -406,8 +419,8 @@ div.titleBar {
 /* v6.2.0 */
 @font-face{
     font-family:'FontAwesome';
-    src:url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-solid-900.woff2') format('woff2'),
-        url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/webfonts/fa-solid-900.ttf') format('truetype');
+    src:url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.woff2') format('woff2'),
+        url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/webfonts/fa-solid-900.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
