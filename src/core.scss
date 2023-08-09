@@ -354,12 +354,16 @@ div#result {
             }
 
             // area for message with "show all attempts for this record"
-            div.PreviousRecordLink span {
-                background-color: #CCCCCC;
-                border: 1px dotted #6699CC;
-                color: #666666;
-                font-size: 0.9em;
-                padding: 0px 1px 1px 1px;
+            div.PreviousRecordLink {
+                text-align: center;
+
+                span {
+                    background-color: #CCCCCC;
+                    border: 1px dotted #6699CC;
+                    color: #666666;
+                    font-size: 0.9em;
+                    padding: 0px 1px 1px 1px;
+                }
             }
         }
     }

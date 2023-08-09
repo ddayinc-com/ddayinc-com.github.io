@@ -230,6 +230,9 @@ div#result div.recordDetail div.recordDetailBody div.propertyLabel {
   vertical-align: bottom;
   width: 60px;
 }
+div#result div.recordDetail div.recordDetailBody div.PreviousRecordLink {
+  text-align: center;
+}
 div#result div.recordDetail div.recordDetailBody div.PreviousRecordLink span {
   background-color: #CCCCCC;
   border: 1px dotted #6699CC;
