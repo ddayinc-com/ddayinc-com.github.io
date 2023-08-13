@@ -209,7 +209,7 @@ RecordDetails:
   bFailedToBeatExisting: 0
   FailureDetails: "AJ was trying for an entire Crave Case -- you know, it's \"What you Crave,\" thirty (30) White Castle hamburgers.  Though he fell a bit short of the mark, he sure created a stir in the bathroom a short time after the event.  Pee-ewww."
   ImageUrl: "https://ddayinc.com/gallery/records/AJ-WhiteCastle.html"
-  ImgPathAltText: "Sliders Galore"
+  ImageUrlTitle: "Sliders Galore"
 -
   ID: 3
   RecordCategory: 1
@@ -224,7 +224,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/AC-Donettes.html"
-  ImgPathAltText: "Dog's Nuts Pix"
+  ImageUrlTitle: "Dog's Nuts Pix"
 -
   ID: 4
   RecordCategory: 1
@@ -386,7 +386,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/Barker-DoubleCheeseburgers.html"
-  ImgPathAltText: "Chee-burger, chee-burger"
+  ImageUrlTitle: "Chee-burger, chee-burger"
 -
   ID: 76
   RecordCategory: 1
@@ -401,6 +401,7 @@ RecordDetails:
   bFailedToBeatExisting: 1
   FailureDetails: "Jeremy was all jazzed about destroying some tasty shakes from Dairy Queen. He could not believe that a person could not consume three (3) quarts (or 96 ounces) of cool refreshment. Many contest watchers were amazed at the shear volume of smack that Jeremy was talking about how he was going to obliterate those poor shakes.<BR />\r\n<SPAN CLASS='indent'>So,</SPAN> Jeremy ordered up two (2) 32-ounce strawberry shakes, and one (1) vanilla shake. Right out of the gate, spectators enjoyed a true spectacle of shake-slurping. Jeremy laid waste to the first half-gallon of shake-goodness within twelve (12) minutes. Then, reality set in. The shakes began drawing thermal energy from deep within Jeremy's core, fueled by their desire to restore equilibrium with their surroundings. Brr. After getting through a case of the \"shakes\", Jeremy found that it was time to hit the latrine. After nearly 25 minutes of playing Sno-cone factory, he emerged determine to press on.<BR />\r\n<SPAN CLASS='indent'>Jeremy</SPAN> sat back at the table and started in on the last third of his challenge. About three (3) sips later, he found himself on the DQ patio, coaxing the still-melting shakes in his belly to stay put (available in the Records Gallery). After a short reprieve, and a couple of more sips, Jeremy was half out the door to the patio and throwing up a bit of the Cool Treats that he had enjoyed throwing down. After another short time of calm, the gates were opened, and the rest of the now-frothy shakes leapt from his tummy with a distinct \"splat\" onto the patio pavers.\r\n<SPAN CLASS='indent'>After</SPAN> alerting the DQ employees that our friend was sick (and had made a pink puddle), we all jumped in the Jeep and stewed in the fun and frivolity we had just experience. Luckily, Jeremy's insides were fine with keeping the rest of their contents (if any), and no chuck was spilled in the Jeep.\r\n<SPAN CLASS='indent'>Jeremy</SPAN> vowed to avenge the failure. A rematch date has not been set."
   ImageUrl: "https://ddayinc.com/gallery/records/Jeremy-DQShakes"
+  ImageUrlTitle: "Brrr -- cool(?) treats!"
 -
   ID: 19
   RecordCategory: 1
@@ -483,7 +484,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/Barker-FastestHappyMeal.html"
-  ImgPathAltText: "Eat that thang!"
+  ImageUrlTitle: "Eat that thang!"
 -
   ID: 30
   RecordCategory: 1
@@ -512,6 +513,7 @@ RecordDetails:
   bFailedToBeatExisting: 1
   FailureDetails: "Greg was going for the coveted Most Milk title. He intended to drink down over 0.5 gallons of fresh, wholesome milk in approximately eleven (11) minutes. In order to get an edge in the competition, Greg slowly brought the milk closer to room temperature over a period of two (2) hours. Last minute protests by the current Most Milk title holder about skim versus 2% milk prompted Greg to add four (4) single serving size Half and Half creamer containers to the skim milk. After an impressive start and slurping down about 75% of the jug of milk in about two (2) minutes, Greg paused to showboat a bit. To please the crowd, Greg was able to work in his catch-phrase, \"it hurts\". Then, shortly after getting back to the challenge, the milk that Greg had already consumed was not enjoying the one-half (1/2) pot of coffee that Greg had for breakfast:  it wanted out. It came up once, but Greg gulped it back down. The next two (2) abdominal contractions could not be overcome in the same manner, and Greg chunked out the milk into a nearby trash can. Milk did not do a body good in this case. \r\nNote: one of the pictures is semi-graphic."
   ImageUrl: "imgs/records/gwojtak-milk01.jpg,imgs/records/gwojtak-milk02.jpg"
+  ImageUrlTitle: "Mewwww"
 -
   ID: 60
   RecordCategory: 1
@@ -580,6 +582,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "imgs/records/lettuce01.jpg"
+  ImageUrlTitle: "Raw salad"
 -
   ID: 35
   RecordCategory: 1
@@ -595,6 +598,7 @@ RecordDetails:
   bFailedToBeatExisting: 0
   FailureDetails: "Viktoriya was attempting to ingest one-thousand (1000) gummy bears. She got a time extension from the panel of judges before the challenge, giving her a full ninety (90) minutes to eat bears. She scarcely used half of that time."
   ImageUrl: "imgs/records/gummybears01.jpg,imgs/records/gummybears02.jpg"
+  ImageUrlTitle: "Oh, that kind of gummy"
 -
   ID: 70
   RecordCategory: 1
@@ -675,6 +679,7 @@ RecordDetails:
   bFailedToBeatExisting: 0
   FailureDetails: "Michael was attempting to eat two (2) entire Bloomin' Onions. Yes, he barely made it into the second onion, but it was monsterous. Even bigger than the first. Michael reported that his trip to the restroom the next morning filled his nasal passages with the scent of \"sweet Vidalia onions\"."
   ImageUrl: "imgs/records/bloominonion01.jpg,imgs/records/bloominonion02.jpg,imgs/records/bloominonion03.jpg,imgs/records/bloominonion04.jpg"
+  ImageUrlTitle: "Crikey!"
 -
   ID: 45
   RecordCategory: 1
@@ -745,6 +750,7 @@ RecordDetails:
   bFailedToBeatExisting: 0
   FailureDetails: "Steve was attempting to eat 25 chicken legs total.  Just three more?"
   ImageUrl: "https://ddayinc.com/gallery/records/Steve-ChickenLegs.html"
+  ImageUrlTitle: "Shake, I say, shake a leg, boy!"
 -
   ID: 53
   RecordCategory: 1
@@ -813,7 +819,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "imgs/records/kolaches-eight.jpg"
-  ImgPathAltText: "Kolache balls!"
+  ImageUrlTitle: "Kolache balls!"
 -
   ID: 64
   RecordCategory: 1
@@ -828,7 +834,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/Danny-ChickenNuggets.html"
-  ImgPathAltText: "McMega McNuggies"
+  ImageUrlTitle: "McMega McNuggies"
 -
   ID: 65
   RecordCategory: 1
@@ -844,6 +850,7 @@ RecordDetails:
   bFailedToBeatExisting: 0
   FailureDetails: "Viktor was attempting to eat thirty-six (36) ounces of delicious cheese, but after about 1/2 dozen cheese wedges (0.75 ounces each), Vik \"knew [she] was not going to be able to complete the assignment\". After a baker's dozen of the Laughing Cow's cheese wedges, Red felt a \"strong tickle\" on the right side of her head. The Cow did not stop tickling her until she said 'uncle'. After sixteen (16) Cow wedges she developed a slight fever. That is how to tell that you have selected a fine cheese product. After the 2nd dozen of wedges, the urge to purge came over Viktoriya. So, she ate a piece of candy and threw down one more wedge for good measure. The Cow got the last laugh, stopping her short of her goal. She did keep down the wholesome goodness, though.<BR />Side note: Viktoriya actually laughed the last laugh about four (4) hours after the challenge upon utilizing the latrine and disproving the age old adage about the cork-like effect of large quantities of cheese on the user's system. Ha."
   ImageUrl: "imgs/records/vyurko-cheese0.jpg,imgs/records/vyurko-cheese1.jpg"
+  ImageUrlTitle: "Cheese -- it does a body good"
 -
   ID: 66
   RecordCategory: 1
@@ -858,7 +865,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/Alex-QPKDs.html"
-  ImgPathAltText: "Wiener Dogs!"
+  ImageUrlTitle: "Wiener Dogs!"
 -
   ID: 67
   RecordCategory: 1
@@ -873,6 +880,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "imgs/records/mprice-jello01.jpg,imgs/records/mprice-jello02.jpg,imgs/records/mprice-jello03.jpg,imgs/records/mprice-jello04.jpg,imgs/records/mprice-jello05.jpg,imgs/records/mprice-jello06.jpg"
+  ImageUrlTitle: "J-e-l-l-o"
 -
   ID: 68
   RecordCategory: 1
@@ -900,7 +908,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/Steve-Tacos.html"
-  ImgPathAltText: "Taco-Tico"
+  ImageUrlTitle: "Taco-Tico"
 -
   ID: 72
   RecordCategory: 1
@@ -916,7 +924,7 @@ RecordDetails:
   bFailedToBeatExisting: 0
   FailureDetails: "Tim was trying for one (1) gallon of milk. Maybe next time, Dairy King."
   ImageUrl: "https://ddayinc.com/gallery/records/Tim-Milk.html"
-  ImgPathAltText: "Wholesome"
+  ImageUrlTitle: "Wholesome"
 -
   ID: 79
   RecordCategory: 1
@@ -931,7 +939,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/Marianne-BigAssBurger.html"
-  ImgPathAltText: "Meat"
+  ImageUrlTitle: "Meat"
 -
   ID: 75
   RecordCategory: 1
@@ -946,6 +954,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/Barker-DoubleCheeseburgers.html"
+  ImageUrlTitle: "Chee-burger, chee-burger, chee-burger, chee-burger, chee-burger, chee-burger, chee-burger, chee-burger, chee-burger, chee-burger"
 -
   ID: 27
   RecordCategory: 2
@@ -960,6 +969,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "imgs/records/mosttmpinetfiles01.jpg"
+  ImageUrlTitle: "AOL says: You've got temp files!"
 -
   ID: 26
   RecordCategory: 2
@@ -974,6 +984,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "imgs/records/mostfragmenteddrive01.png"
+  ImageUrlTitle: "Down in frag-gled rock"
 -
   ID: 25
   RecordCategory: 2
@@ -988,6 +999,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "imgs/records/largesttmpfile01.png"
+  ImageUrlTitle: "Big boy!"
 -
   ID: 43
   RecordCategory: 2
@@ -1002,6 +1014,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "imgs/records/mostinfectedfiles01.png"
+  ImageUrlTitle: "Take two of these and calle me in the morning"
 -
   ID: 51
   RecordCategory: 2
@@ -1016,6 +1029,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "imgs/records/uptime-sfl1.png"
+  ImageUrlTitle: "What up!!"
 -
   ID: 31
   RecordCategory: 1
@@ -1030,6 +1044,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "imgs/records/quicken/boxOfTacos.jpg,imgs/records/quicken/pingpongTable01.jpg,imgs/records/quicken/pingpongTable02.jpg,imgs/records/quicken/scoreboard.jpg"
+  ImageUrlTitle: "¡Si señorita!"
 -
   ID: 77
   RecordCategory: 1
@@ -1044,6 +1059,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/Birkle-Breadsticks.html"
+  ImageUrlTitle: "Stick it to me!"
 -
   ID: 78
   RecordCategory: 1
@@ -1058,7 +1074,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/Barker-BKQuadStackers.html"
-  ImgPathAltText: "That's meaty"
+  ImageUrlTitle: "That's meaty"
 -
   ID: 80
   RecordCategory: 1
@@ -1073,7 +1089,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/Barker-BigAssBurgers.html"
-  ImgPathAltText: "Meat"
+  ImageUrlTitle: "Meat"
 -
   ID: 81
   RecordCategory: 1
@@ -1088,7 +1104,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/Prizzo-PotStickers.html"
-  ImgPathAltText: "Mmmm, potstickers"
+  ImageUrlTitle: "Mmmm, potstickers"
 -
   ID: 82
   RecordCategory: 1
@@ -1103,7 +1119,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/Liz-DoubleStufOreos.html"
-  ImgPathAltText: "Double Stuft"
+  ImageUrlTitle: "Double Stuft"
 -
   ID: 84
   RecordCategory: 1
@@ -1118,7 +1134,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/Mark-ChickenWings.html"
-  ImgPathAltText: "Mark maulin' some wangs!"
+  ImageUrlTitle: "Mark maulin' some wangs!"
 -
   ID: 85
   RecordCategory: 1
@@ -1133,7 +1149,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/AJ-HushPuppies.html"
-  ImgPathAltText: "Hush Puppy Pix"
+  ImageUrlTitle: "Hush Puppy Pix"
 -
   ID: 1
   RecordCategory: 1
@@ -1307,6 +1323,7 @@ RecordDetails:
   bFailedToBeatExisting: 0
   FailureDetails: "AJ intended to destroy two (2) Grande meals for a total of twenty (20) tacos. Are you loco, S.A? Don't you know what you are trying to get crazy with?"
   ImageUrl: "https://ddayinc.com/gallery/records/AJ-Tacos.html"
+  ImageUrlTitle: "🌮"
 -
   ID: 13
   RecordCategory: 1
@@ -1374,6 +1391,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "imgs/records/jwarmoth-cow.jpg"
+  ImageUrlTitle: "Salt-tastic nuggies!"
 -
   ID: 90
   RecordCategory: 1
@@ -1389,6 +1407,7 @@ RecordDetails:
   bFailedToBeatExisting: 0
   FailureDetails: "Matt was trying to down six (6) quarter-pound hot dogs with buns. The high-quality (and concentration) of hot dog flavoring ended up biting him, stopping him well short of the goal. If he decides to try again, Matt plans to employ the \"walking the dog\"-, the \"in the dog-house\"-, and the \"dog in a bathtub\" techniques to conquer the man's-best-friend of snack bar foods, hot dogs."
   ImageUrl: "imgs/records/mboren-hotdog-beanie.gif,imgs/records/mboren-hotdog-bun.jpg,imgs/records/mboren-hotdogman.jpg,imgs/records/mboren-withTrophy.gif"
+  ImageUrlTitle: "Hot diggity!"
 -
   ID: 9
   RecordCategory: 1
@@ -1433,7 +1452,7 @@ RecordDetails:
   bFailedToBeatExisting: 0
   FailureDetails: "Matt was attempting to devour three (3) dozen wings, falling just short. Well, at least he kept down the tasty treat -- Caribbean Jerk out through the nose would stick with you for a while...\r\n<DIV CLASS=\"challengeRecordIcon\"><IMG ALT=\"Tastes like chicken!\" TITLE=\"Tastes like chicken!\" SRC=\"imgs/records/icons/wingicon.gif\"></DIV>\r\n"
   ImageUrl: "https://ddayinc.com/gallery/records/Haze-ChickenWings.html"
-  ImgPathAltText: "Chicken Wings pix -- yum!"
+  ImageUrlTitle: "Chicken Wings pix -- yum!"
 -
   ID: 71
   RecordCategory: 1
@@ -1461,7 +1480,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/Barker-QPKDs.html"
-  ImgPathAltText: "Wiener Dogs!"
+  ImageUrlTitle: "Wiener Dogs!"
 -
   ID: 63
   RecordCategory: 1
@@ -1489,7 +1508,7 @@ RecordDetails:
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
   ImageUrl: "https://ddayinc.com/gallery/records/AJ-ChickenWings.html"
-  ImgPathAltText: "AJ killin' some wangs!"
+  ImageUrlTitle: "AJ killin' some wangs!"
 -
   ID: 94
   RecordCategory: 1
