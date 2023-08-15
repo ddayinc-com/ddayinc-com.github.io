@@ -13,7 +13,8 @@ param(
 process {
     $hshRecordBookInfo = Get-Content -Raw -Path $Path | ConvertFrom-Yaml
 
-    $hshRecordBookInfo.RecordDetails | Select-Object *,
+    ## for RecordDetails of the given category, get stuff
+    $hshRecordBookInfo.RecordDetails | Where-Object -Property RecordCategory -eq 1 | Select-Object *,
         @{n="ChallengerName"; e={$oThisRecord = $_; $hshRecordBookInfo.Challengers | Where-Object{$_.ChallengerId -eq $oThisRecord.ChallengerID} | ForEach-Object{$_.FirstName, $_.LastName -join " "}}},
         @{n="RecordName"; e={$oThisRecord = $_; ($hshRecordBookInfo.RecordNames | Where-Object{$_.RecordNumber -eq $oThisRecord.RecordNumber}).RecordName}}
 }

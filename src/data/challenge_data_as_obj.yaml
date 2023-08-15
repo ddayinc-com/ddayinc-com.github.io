@@ -512,7 +512,7 @@ RecordDetails:
   bDidNotAchieveGoal: 1
   bFailedToBeatExisting: 1
   FailureDetails: "Greg was going for the coveted Most Milk title. He intended to drink down over 0.5 gallons of fresh, wholesome milk in approximately eleven (11) minutes. In order to get an edge in the competition, Greg slowly brought the milk closer to room temperature over a period of two (2) hours. Last minute protests by the current Most Milk title holder about skim versus 2% milk prompted Greg to add four (4) single serving size Half and Half creamer containers to the skim milk. After an impressive start and slurping down about 75% of the jug of milk in about two (2) minutes, Greg paused to showboat a bit. To please the crowd, Greg was able to work in his catch-phrase, \"it hurts\". Then, shortly after getting back to the challenge, the milk that Greg had already consumed was not enjoying the one-half (1/2) pot of coffee that Greg had for breakfast:  it wanted out. It came up once, but Greg gulped it back down. The next two (2) abdominal contractions could not be overcome in the same manner, and Greg chunked out the milk into a nearby trash can. Milk did not do a body good in this case. \r\nNote: one of the pictures is semi-graphic."
-  ImageUrl: "imgs/records/gwojtak-milk01.jpg,imgs/records/gwojtak-milk02.jpg"
+  ImageUrl: "https://ddayinc.com/gallery/records/Wojtak-Milk.html"
   ImageUrlTitle: "Mewwww"
 -
   ID: 60
@@ -581,7 +581,7 @@ RecordDetails:
   IsPreviousValue: 0
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
-  ImageUrl: "imgs/records/lettuce01.jpg"
+  ImageUrl: "https://ddayinc.com/gallery/records/Noosh-Lettuce.html"
   ImageUrlTitle: "Raw salad"
 -
   ID: 35
@@ -597,7 +597,7 @@ RecordDetails:
   bDidNotAchieveGoal: 1
   bFailedToBeatExisting: 0
   FailureDetails: "Viktoriya was attempting to ingest one-thousand (1000) gummy bears. She got a time extension from the panel of judges before the challenge, giving her a full ninety (90) minutes to eat bears. She scarcely used half of that time."
-  ImageUrl: "imgs/records/gummybears01.jpg,imgs/records/gummybears02.jpg"
+  ImageUrl: "https://ddayinc.com/gallery/records/Red-GummyBears.html"
   ImageUrlTitle: "Oh, that kind of gummy"
 -
   ID: 70
@@ -678,7 +678,7 @@ RecordDetails:
   bDidNotAchieveGoal: 1
   bFailedToBeatExisting: 0
   FailureDetails: "Michael was attempting to eat two (2) entire Bloomin' Onions. Yes, he barely made it into the second onion, but it was monsterous. Even bigger than the first. Michael reported that his trip to the restroom the next morning filled his nasal passages with the scent of \"sweet Vidalia onions\"."
-  ImageUrl: "imgs/records/bloominonion01.jpg,imgs/records/bloominonion02.jpg,imgs/records/bloominonion03.jpg,imgs/records/bloominonion04.jpg"
+  ImageUrl: "https://ddayinc.com/gallery/records/MichaelV-BloominOnion.html"
   ImageUrlTitle: "Crikey!"
 -
   ID: 45
@@ -818,7 +818,7 @@ RecordDetails:
   IsPreviousValue: 0
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
-  ImageUrl: "imgs/records/kolaches-eight.jpg"
+  ImageUrl: "https://ddayinc.com/gallery/records/Kyle-KolachesBalls.html"
   ImageUrlTitle: "Kolache balls!"
 -
   ID: 64
@@ -849,7 +849,7 @@ RecordDetails:
   bDidNotAchieveGoal: 1
   bFailedToBeatExisting: 0
   FailureDetails: "Viktor was attempting to eat thirty-six (36) ounces of delicious cheese, but after about 1/2 dozen cheese wedges (0.75 ounces each), Vik \"knew [she] was not going to be able to complete the assignment\". After a baker's dozen of the Laughing Cow's cheese wedges, Red felt a \"strong tickle\" on the right side of her head. The Cow did not stop tickling her until she said 'uncle'. After sixteen (16) Cow wedges she developed a slight fever. That is how to tell that you have selected a fine cheese product. After the 2nd dozen of wedges, the urge to purge came over Viktoriya. So, she ate a piece of candy and threw down one more wedge for good measure. The Cow got the last laugh, stopping her short of her goal. She did keep down the wholesome goodness, though.<BR />Side note: Viktoriya actually laughed the last laugh about four (4) hours after the challenge upon utilizing the latrine and disproving the age old adage about the cork-like effect of large quantities of cheese on the user's system. Ha."
-  ImageUrl: "imgs/records/vyurko-cheese0.jpg,imgs/records/vyurko-cheese1.jpg"
+  ImageUrl: "https://ddayinc.com/gallery/records/Red-Cheese.html"
   ImageUrlTitle: "Cheese -- it does a body good"
 -
   ID: 66
@@ -879,7 +879,7 @@ RecordDetails:
   IsPreviousValue: 0
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
-  ImageUrl: "imgs/records/mprice-jello01.jpg,imgs/records/mprice-jello02.jpg,imgs/records/mprice-jello03.jpg,imgs/records/mprice-jello04.jpg,imgs/records/mprice-jello05.jpg,imgs/records/mprice-jello06.jpg"
+  ImageUrl: "https://ddayinc.com/gallery/records/Prizzo-Jello.html"
   ImageUrlTitle: "J-e-l-l-o"
 -
   ID: 68
@@ -1043,7 +1043,7 @@ RecordDetails:
   IsPreviousValue: 0
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
-  ImageUrl: "imgs/records/quicken/boxOfTacos.jpg,imgs/records/quicken/pingpongTable01.jpg,imgs/records/quicken/pingpongTable02.jpg,imgs/records/quicken/scoreboard.jpg"
+  ImageUrl: "https://ddayinc.com/gallery/records/MCowboyFoster-Tacos.html"
   ImageUrlTitle: "¡Si señorita!"
 -
   ID: 77
@@ -1390,7 +1390,7 @@ RecordDetails:
   IsPreviousValue: 1
   bDidNotAchieveGoal: 0
   bFailedToBeatExisting: 0
-  ImageUrl: "imgs/records/jwarmoth-cow.jpg"
+  ImageUrl: "https://ddayinc.com/gallery/records/Warmoth-Nuggets.html"
   ImageUrlTitle: "Salt-tastic nuggies!"
 -
   ID: 90
@@ -1406,7 +1406,7 @@ RecordDetails:
   bDidNotAchieveGoal: 1
   bFailedToBeatExisting: 0
   FailureDetails: "Matt was trying to down six (6) quarter-pound hot dogs with buns. The high-quality (and concentration) of hot dog flavoring ended up biting him, stopping him well short of the goal. If he decides to try again, Matt plans to employ the \"walking the dog\"-, the \"in the dog-house\"-, and the \"dog in a bathtub\" techniques to conquer the man's-best-friend of snack bar foods, hot dogs."
-  ImageUrl: "imgs/records/mboren-hotdog-beanie.gif,imgs/records/mboren-hotdog-bun.jpg,imgs/records/mboren-hotdogman.jpg,imgs/records/mboren-withTrophy.gif"
+  ImageUrl: "https://ddayinc.com/gallery/records/Matt-QPKDs.html"
   ImageUrlTitle: "Hot diggity!"
 -
   ID: 9
