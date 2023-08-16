@@ -2,7 +2,7 @@
 
 // add a date formatter helper for JSRender
 $.views.helpers("formatDateString", (val) =>
-    {return (new Date(val)).toLocaleDateString("en-GB", {weekday: 'long', year: 'numeric', month: 'short', day: '2-digit'});}
+    {return (new Date(val)).toLocaleDateString("en-GB", {timeZone: 'UTC', weekday: 'long', year: 'numeric', month: 'short', day: '2-digit'});}
 );
 // the character used in the hash/anchor string to delimit from the anchor name and the "query string"-like params also specified
 var strAnchorHashQSDelimiter = ":";
