@@ -50,13 +50,14 @@
 
 {{for #data}}
 <div class="recordDetail roundieCorners">
-<div class="titleBar roundieCorners"><a title="Show this record only" href="#Records{{*:strAnchorHashQSDelimiter}}number={{:RecordNumber}}">{{:RecordName}}</a></div>
+<div class="titleBar roundieCorners"><a title="Show this record only" href="#Records{{*:strAnchorHashQSDelimiter}}number={{:RecordNumber}}">{{:RecordName}}</a>{{if bFailedToBeatExisting}} <span class="FailedToBeatExisting">(Valiant, unsuccessful attempt)</span>{{/if}}</div>
 <div class="recordDetailBody">
 <div class ="propertyLabel">Who:</div><a title="Show challenges for only this challenger" href="#Records{{*:strAnchorHashQSDelimiter}}who={{:ChallengerID}}">{{:ChallengerName}}</a><br/>
 <!-- use helper for date format -->
 <div class ="propertyLabel">When:</div>{{:~formatDateString(RecordDate)}}<br/>
 {{if ImageUrl}}<div class ="propertyLabel">See It:</div>This attempt's <a title="{{:ImageUrlTitle}}" href="{{:ImageUrl}}">Records Gallery</a><br/>{{/if}}
 <div class ="propertyLabel">Details:</div>{{:RecordDetails}}<br/>
+{{if bDidNotAchieveGoal}}Did not achieve goal! {{:FailureDetails}}<br />{{/if}}
 {{if IsTie == 1}}it's a tie!<br />{{/if}}
 {{if HasPreviousValue == 1}}<div class="PreviousRecordLink"><span class="roundieCorners">-[ show <a title="Show all attempts for this record" href="#Records{{*:strAnchorHashQSDelimiter}}number={{:RecordNumber}}">all attempts for {{:RecordName}}</a> ]-</span></div>{{/if}}
 </div>

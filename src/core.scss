@@ -415,6 +415,10 @@ div.titleBar {
     top: 3em;
     z-index: 10;
     // end make the record title be sticky within its parent div (so, scrolls up to top of screen, stays there until bottom of containing div comes up)
+    span.FailedToBeatExisting {
+        font-style: italic;
+        font-weight: normal;
+    }
 }
 
 // plain CSS import (not a SASS @import)

@@ -285,6 +285,10 @@ div.titleBar {
   top: 3em;
   z-index: 10;
 }
+div.titleBar span.FailedToBeatExisting {
+  font-style: italic;
+  font-weight: normal;
+}
 
 /* v6.2.0 */
 @font-face {
