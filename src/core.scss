@@ -351,6 +351,11 @@ div#result {
                 text-align: right;
                 vertical-align: bottom;
                 width: 60px;
+
+                &.dnagLabel {
+                    color: #CC0000;
+                    width: auto;
+                }
             }
 
             // area for message with "show all attempts for this record"
