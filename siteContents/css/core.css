@@ -289,7 +289,7 @@ div.titleBar {
   top: 3em;
   z-index: 10;
 }
-div.titleBar span.FailedToBeatExisting {
+div.titleBar span.FailedToBeatExisting, div.titleBar span.IsPreviousValue {
   font-style: italic;
   font-weight: normal;
 }
