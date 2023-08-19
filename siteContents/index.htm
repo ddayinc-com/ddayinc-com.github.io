@@ -56,7 +56,7 @@
 <!-- use helper for date format -->
 <div class ="propertyLabel">When:</div>{{:~formatDateString(RecordDate)}}<br/>
 {{if ImageUrl}}<div class ="propertyLabel">See It:</div>This attempt's <a title="{{:ImageUrlTitle}}" href="{{:ImageUrl}}">Records Gallery</a><br/>{{/if}}
-<div class ="propertyLabel">Details:</div>{{:RecordDetails}}<br/>
+{{if RecordDetails}}<div class ="propertyLabel">Details:</div>{{:RecordDetails}}<br/>{{/if}}
 {{if bDidNotAchieveGoal}}<div class="propertyLabel dnagLabel">Did not achieve goal!</div>{{:FailureDetails}} <span class="sadNews"></span><br />{{/if}}
 {{if IsTie == 1}}it's a tie!<br />{{/if}}
 {{if HasPreviousValue == 1}}<div class="PreviousRecordLink"><span class="roundieCorners">-[ show <a title="Show all attempts for this record" href="#Records{{*:strAnchorHashQSDelimiter}}number={{:RecordNumber}}">all attempts for {{:RecordName}}</a> ]-</span></div>{{/if}}
