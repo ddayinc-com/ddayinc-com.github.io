@@ -63,7 +63,14 @@ var dPageHandler = function() {
                         dataSrc: ""
                     },
                     columns: [
-                        {data: "ChallengerName"},
+                        {
+                            // make ChallengerName link; needs whole "row" so as to use ChallengerName and ChallengerID properties from the "full data source object"; ref: https://datatables.net/reference/option/columns.render
+                            data: "ChallengerName",
+                            render: function (data, type, row) {
+                                if (row.ChallengerID != undefined) {return "<a title='Show all challenges for " + data + "' href='#Records" + strAnchorHashQSDelimiter + "who=" + row.ChallengerID + "'>" + data + "</a>";}
+                                else {return data}
+                            }
+                        },
                         {data: "NumChallenges"},
                         {data: "NumCurrentRecords"},
                         {data: "NumPrevRecords"},

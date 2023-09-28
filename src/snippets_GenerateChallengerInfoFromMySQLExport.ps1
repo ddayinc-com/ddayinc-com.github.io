@@ -21,6 +21,7 @@ process {
             New-Object -TypeName PSObject -Property ([ordered]@{
                 ChallengerName = $strChallengerName
                 ChallengerLastName = $oThisChallenger.LastName
+                ChallengerID = $oThisChallenger.ChallengerID
                 Dept = $oThisChallenger.Dept
                 NumChallenges = ($arrChallengesThisPerson | Measure-Object).Count
                 NumCurrentRecords = ($arrChallengesThisPerson | Where-Object{$_.IsPreviousValue -eq 0 -and $_.bFailedToBeatExisting -eq 0} | Measure-Object).Count
