@@ -1,6 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <title>D-Day, Inc.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="D-Day Inc site with all the goodness from D-Day: food challenges along with records galleries, and some Unreal Tournament classic remnants. Wahoo!">
     <script src="https://code.jquery.com/jquery-3.7.0.min.js" integrity="sha256-2Pmvv0kuTBOenSvLm6bvfBSSHrUJ+3A7x6P5Ebd07/g=" crossorigin="anonymous"></script>
     <script src="https://www.jsviews.com/download/jsrender.min.js"></script>
     <!-- for datatable.net table -->
@@ -50,9 +53,10 @@
 
 {{for #data}}
 <div class="recordDetail roundieCorners">
-<div class="titleBar roundieCorners"><a title="Show this record only" href="#Records{{*:strAnchorHashQSDelimiter}}number={{:RecordNumber}}">{{:RecordName}}</a>{{if bFailedToBeatExisting}} <span class="FailedToBeatExisting">(Valiant, unsuccessful attempt)</span>{{/if}}{{if IsPreviousValue}} <span class="IsPreviousValue">(Previous record)</span>{{/if}}</div>
+<div class="titleBar roundieCorners"><a title="Show attempts for only this record" href="#Records{{*:strAnchorHashQSDelimiter}}number={{:RecordNumber}}">{{:RecordName}}</a>{{if bFailedToBeatExisting}} <span class="FailedToBeatExisting">(Valiant, unsuccessful attempt)</span>{{/if}}{{if IsPreviousValue}} <span class="IsPreviousValue">(Previous record)</span>{{/if}}</div>
 <div class="recordDetailBody">
-<div class ="propertyLabel">Who:</div><a title="Show challenges for only this challenger" href="#Records{{*:strAnchorHashQSDelimiter}}who={{:ChallengerID}}">{{:ChallengerName}}</a><br/>
+<!-- using ">" instead of ":" in link title to HTMLEncode the value via jsrender (some may have quotes in them) -->
+<div class ="propertyLabel">Who:</div><a title="Show challenges for only {{>ChallengerName}}" href="#Records{{*:strAnchorHashQSDelimiter}}who={{:ChallengerID}}">{{:ChallengerName}}</a><br/>
 <!-- use helper for date format -->
 <div class ="propertyLabel">When:</div>{{:~formatDateString(RecordDate)}}<br/>
 {{if ImageUrl}}<div class ="propertyLabel">See It:</div>This attempt's <a title="{{:ImageUrlTitle}}" href="{{:ImageUrl}}">Records Gallery</a><br/>{{/if}}

@@ -2,6 +2,7 @@
   {
     "ChallengerName": "Ryan \"Bob\" Barker",
     "ChallengerLastName": "Barker",
+    "ChallengerID": 7,
     "Dept": null,
     "NumChallenges": 6,
     "NumCurrentRecords": 5,
@@ -13,6 +14,7 @@
   {
     "ChallengerName": "Andrew Beller",
     "ChallengerLastName": "Beller",
+    "ChallengerID": 8,
     "Dept": null,
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -24,6 +26,7 @@
   {
     "ChallengerName": "Ryan Birk",
     "ChallengerLastName": "Birk",
+    "ChallengerID": 9,
     "Dept": "WMT",
     "NumChallenges": 2,
     "NumCurrentRecords": 1,
@@ -35,6 +38,7 @@
   {
     "ChallengerName": "Matt Boren",
     "ChallengerLastName": "Boren",
+    "ChallengerID": 0,
     "Dept": "Putnam County Quads",
     "NumChallenges": 5,
     "NumCurrentRecords": 3,
@@ -46,6 +50,7 @@
   {
     "ChallengerName": "Allen Crawford",
     "ChallengerLastName": "Crawford",
+    "ChallengerID": 11,
     "Dept": "CNV",
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -57,6 +62,7 @@
   {
     "ChallengerName": "Bob Dillon",
     "ChallengerLastName": "Dillon",
+    "ChallengerID": 12,
     "Dept": "NetWare Team",
     "NumChallenges": 1,
     "NumCurrentRecords": 0,
@@ -68,6 +74,7 @@
   {
     "ChallengerName": "Matt Eash",
     "ChallengerLastName": "Eash",
+    "ChallengerID": 13,
     "Dept": "Unix",
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -79,6 +86,7 @@
   {
     "ChallengerName": "Alex Etherington",
     "ChallengerLastName": "Etherington",
+    "ChallengerID": 14,
     "Dept": null,
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -90,6 +98,7 @@
   {
     "ChallengerName": "Michael \"Cowboy\" Foster",
     "ChallengerLastName": "Foster",
+    "ChallengerID": 15,
     "Dept": null,
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -101,6 +110,7 @@
   {
     "ChallengerName": "Dave Harper",
     "ChallengerLastName": "Harper",
+    "ChallengerID": 37,
     "Dept": null,
     "NumChallenges": 1,
     "NumCurrentRecords": 0,
@@ -112,6 +122,7 @@
   {
     "ChallengerName": "Chad Haselby",
     "ChallengerLastName": "Haselby",
+    "ChallengerID": 16,
     "Dept": null,
     "NumChallenges": 3,
     "NumCurrentRecords": 1,
@@ -123,6 +134,7 @@
   {
     "ChallengerName": "Michael Hawkins",
     "ChallengerLastName": "Hawkins",
+    "ChallengerID": 17,
     "Dept": null,
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -134,6 +146,7 @@
   {
     "ChallengerName": "Matt \"Roobus\" Hazlett",
     "ChallengerLastName": "Hazlett",
+    "ChallengerID": 1,
     "Dept": "Putnam County Quads",
     "NumChallenges": 1,
     "NumCurrentRecords": 0,
@@ -145,6 +158,7 @@
   {
     "ChallengerName": "Jeff Hexamer",
     "ChallengerLastName": "Hexamer",
+    "ChallengerID": 18,
     "Dept": null,
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -156,6 +170,7 @@
   {
     "ChallengerName": "Tim Hillman",
     "ChallengerLastName": "Hillman",
+    "ChallengerID": 19,
     "Dept": null,
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -167,6 +182,7 @@
   {
     "ChallengerName": "AJ Horn",
     "ChallengerLastName": "Horn",
+    "ChallengerID": 20,
     "Dept": null,
     "NumChallenges": 4,
     "NumCurrentRecords": 2,
@@ -178,6 +194,7 @@
   {
     "ChallengerName": "Kyle Kilgore",
     "ChallengerLastName": "Kilgore",
+    "ChallengerID": 21,
     "Dept": null,
     "NumChallenges": 2,
     "NumCurrentRecords": 1,
@@ -189,6 +206,7 @@
   {
     "ChallengerName": "Mark Lockwood",
     "ChallengerLastName": "Lockwood",
+    "ChallengerID": 41,
     "Dept": null,
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -200,6 +218,7 @@
   {
     "ChallengerName": "Tom McCollister",
     "ChallengerLastName": "McCollister",
+    "ChallengerID": 22,
     "Dept": "Unknown",
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -211,6 +230,7 @@
   {
     "ChallengerName": "Danny McConaha",
     "ChallengerLastName": "McConaha",
+    "ChallengerID": 23,
     "Dept": "Unknown",
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -222,6 +242,7 @@
   {
     "ChallengerName": "Liz Molitor",
     "ChallengerLastName": "Molitor",
+    "ChallengerID": 24,
     "Dept": null,
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -233,6 +254,7 @@
   {
     "ChallengerName": "Brian Morris",
     "ChallengerLastName": "Morris",
+    "ChallengerID": 25,
     "Dept": null,
     "NumChallenges": 8,
     "NumCurrentRecords": 4,
@@ -244,6 +266,7 @@
   {
     "ChallengerName": "Michael Nelson",
     "ChallengerLastName": "Nelson",
+    "ChallengerID": 26,
     "Dept": null,
     "NumChallenges": 3,
     "NumCurrentRecords": 1,
@@ -255,6 +278,7 @@
   {
     "ChallengerName": "Brandon Neuenschwander",
     "ChallengerLastName": "Neuenschwander",
+    "ChallengerID": 27,
     "Dept": null,
     "NumChallenges": 7,
     "NumCurrentRecords": 5,
@@ -266,6 +290,7 @@
   {
     "ChallengerName": "Maia Nevels",
     "ChallengerLastName": "Nevels",
+    "ChallengerID": 28,
     "Dept": null,
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -277,6 +302,7 @@
   {
     "ChallengerName": "Edward Oliver",
     "ChallengerLastName": "Oliver",
+    "ChallengerID": 29,
     "Dept": "WMT",
     "NumChallenges": 6,
     "NumCurrentRecords": 4,
@@ -288,6 +314,7 @@
   {
     "ChallengerName": "Misty Price",
     "ChallengerLastName": "Price",
+    "ChallengerID": 30,
     "Dept": null,
     "NumChallenges": 6,
     "NumCurrentRecords": 5,
@@ -299,6 +326,7 @@
   {
     "ChallengerName": "Troy Roach",
     "ChallengerLastName": "Roach",
+    "ChallengerID": 31,
     "Dept": "CSC",
     "NumChallenges": 2,
     "NumCurrentRecords": 2,
@@ -310,6 +338,7 @@
   {
     "ChallengerName": "Jeremy Smith",
     "ChallengerLastName": "Smith",
+    "ChallengerID": 32,
     "Dept": "WMT",
     "NumChallenges": 1,
     "NumCurrentRecords": 0,
@@ -321,6 +350,7 @@
   {
     "ChallengerName": "Cam the Aussie",
     "ChallengerLastName": "the Aussie",
+    "ChallengerID": 42,
     "Dept": "InfoHell",
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -332,6 +362,7 @@
   {
     "ChallengerName": "Steve Ulrich",
     "ChallengerLastName": "Ulrich",
+    "ChallengerID": 33,
     "Dept": "ADSS",
     "NumChallenges": 2,
     "NumCurrentRecords": 2,
@@ -343,6 +374,7 @@
   {
     "ChallengerName": "Michael Vance",
     "ChallengerLastName": "Vance",
+    "ChallengerID": 34,
     "Dept": "InfoSec",
     "NumChallenges": 3,
     "NumCurrentRecords": 2,
@@ -354,6 +386,7 @@
   {
     "ChallengerName": "John \"Wizzle\" Warmoth",
     "ChallengerLastName": "Warmoth",
+    "ChallengerID": 39,
     "Dept": null,
     "NumChallenges": 2,
     "NumCurrentRecords": 0,
@@ -365,6 +398,7 @@
   {
     "ChallengerName": "Josh Widener",
     "ChallengerLastName": "Widener",
+    "ChallengerID": 40,
     "Dept": null,
     "NumChallenges": 2,
     "NumCurrentRecords": 0,
@@ -376,6 +410,7 @@
   {
     "ChallengerName": "Greg Wojtak",
     "ChallengerLastName": "Wojtak",
+    "ChallengerID": 35,
     "Dept": "Unix",
     "NumChallenges": 4,
     "NumCurrentRecords": 3,
@@ -387,6 +422,7 @@
   {
     "ChallengerName": "Marianne X",
     "ChallengerLastName": "X",
+    "ChallengerID": 6,
     "Dept": "External",
     "NumChallenges": 1,
     "NumCurrentRecords": 1,
@@ -398,6 +434,7 @@
   {
     "ChallengerName": "Viktoriya Yurko",
     "ChallengerLastName": "Yurko",
+    "ChallengerID": 36,
     "Dept": "WMT",
     "NumChallenges": 3,
     "NumCurrentRecords": 3,
