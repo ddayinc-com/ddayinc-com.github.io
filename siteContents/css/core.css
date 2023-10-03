@@ -204,7 +204,7 @@ table#challengerSummary th {
 
 div#result {
   max-width: 800px;
-  margin: auto;
+  margin: auto 5px;
 }
 div#result div.recordDetail {
   padding: 3px;
