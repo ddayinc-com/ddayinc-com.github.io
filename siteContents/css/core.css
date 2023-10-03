@@ -52,6 +52,9 @@ ul.navbar li {
 ul.navbar button {
   all: unset;
 }
+ul.navbar > li:first-child {
+  padding-left: 0px;
+}
 ul.navbar > li:first-child a::before {
   content: "\f794";
   font-family: "FontAwesome";
@@ -88,7 +91,7 @@ ul.navbar > li a {
 }
 ul.navbar > li > a, ul.navbar > li span.dropdownHeader {
   color: white;
-  padding: 9px 10px;
+  padding: 9px 0px 9px 10px;
 }
 ul.navbar > li span.dropdownHeader {
   cursor: default;

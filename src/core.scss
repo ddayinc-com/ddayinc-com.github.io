@@ -102,6 +102,7 @@ ul.navbar {
     // logo area, essentially
     > li:first-child {
         // font-size: 115%;
+        padding-left: 0px; // override the padding for the logo item
 
         a::before {
             // \f1e2: bombastic
@@ -156,7 +157,7 @@ ul.navbar {
         // top-level links, and any dropdown headers
         > a, span.dropdownHeader {
             color: map.get($themeStyle, $themeToUse, "nav", "mainFontColor");
-            padding: map.get($themeStyle, $themeToUse, "nav", "itemPadding", "topAndBottom") map.get($themeStyle, $themeToUse, "nav", "itemPadding", "sides");
+            padding: map.get($themeStyle, $themeToUse, "nav", "itemPadding", "topAndBottom") 0px map.get($themeStyle, $themeToUse, "nav", "itemPadding", "topAndBottom") map.get($themeStyle, $themeToUse, "nav", "itemPadding", "sides");
         }
 
         span.dropdownHeader {
